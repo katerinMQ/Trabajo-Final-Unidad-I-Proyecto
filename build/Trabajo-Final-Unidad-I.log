@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  30 OCT 2020 20:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  30 OCT 2020 20:58
 entering extended mode
 **./Trabajo-Final-Unidad-I.tex
 (Trabajo-Final-Unidad-I.tex
@@ -274,62 +274,67 @@ File: ./imagen/casouso.png Graphic file (type png)
 Package pdftex.def Info: ./imagen/casouso.png  used on input line 154.
 (pdftex.def)             Requested size: 341.43306pt x 306.90266pt.
  [8 <./imagen/9.png> <./imagen/10.png>]
-<./imagen/23.png, id=52, 302.63063pt x 341.77687pt>
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 16
+2.
+ ("C:\Program Files\MiKTeX\tex/latex/base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+[9 <./imagen/casouso.png>]
+<./imagen/23.png, id=57, 302.63063pt x 341.77687pt>
 File: ./imagen/23.png Graphic file (type png)
 <use ./imagen/23.png>
-Package pdftex.def Info: ./imagen/23.png  used on input line 168.
+Package pdftex.def Info: ./imagen/23.png  used on input line 171.
 (pdftex.def)             Requested size: 199.16928pt x 224.93198pt.
- [9 <./imagen/casouso.png>]
-<./imagen/4capas.png, id=57, 232.61906pt x 237.88875pt>
+<./imagen/4capas.png, id=58, 232.61906pt x 237.88875pt>
 File: ./imagen/4capas.png Graphic file (type png)
 <use ./imagen/4capas.png>
-Package pdftex.def Info: ./imagen/4capas.png  used on input line 171.
+Package pdftex.def Info: ./imagen/4capas.png  used on input line 174.
 (pdftex.def)             Requested size: 199.16928pt x 203.68736pt.
-<./imagen/diagrmclasesvistaprocesos.png, id=58, 592.46344pt x 415.5525pt>
+ [10 <./imagen/23.png>]
+<./imagen/diagrmclasesvistaprocesos.png, id=63, 592.46344pt x 415.5525pt>
 File: ./imagen/diagrmclasesvistaprocesos.png Graphic file (type png)
 <use ./imagen/diagrmclasesvistaprocesos.png>
 Package pdftex.def Info: ./imagen/diagrmclasesvistaprocesos.png  used on input 
-line 175.
+line 178.
 (pdftex.def)             Requested size: 341.43306pt x 239.48613pt.
- [10 <./imagen/23.png> <./imagen/4capas.png>]
 <./imagen/calcular.png, id=64, 516.42938pt x 277.78781pt>
 File: ./imagen/calcular.png Graphic file (type png)
 <use ./imagen/calcular.png>
-Package pdftex.def Info: ./imagen/calcular.png  used on input line 184.
+Package pdftex.def Info: ./imagen/calcular.png  used on input line 187.
 (pdftex.def)             Requested size: 341.43306pt x 183.66264pt.
-<./imagen/pruebas.png, id=65, 655.69969pt x 246.9225pt>
+ [11 <./imagen/4capas.png> <./imagen/diagrmclasesvistaprocesos.png>]
+<./imagen/pruebas.png, id=70, 655.69969pt x 246.9225pt>
 File: ./imagen/pruebas.png Graphic file (type png)
 <use ./imagen/pruebas.png>
-Package pdftex.def Info: ./imagen/pruebas.png  used on input line 187.
+Package pdftex.def Info: ./imagen/pruebas.png  used on input line 190.
 (pdftex.def)             Requested size: 341.43306pt x 128.5775pt.
- [11 <./imagen/diagrmclasesvistaprocesos.png> <./imagen/calcular.png>]
 <./imagen/interface.png, id=71, 603.75563pt x 232.61906pt>
 File: ./imagen/interface.png Graphic file (type png)
 <use ./imagen/interface.png>
-Package pdftex.def Info: ./imagen/interface.png  used on input line 191.
+Package pdftex.def Info: ./imagen/interface.png  used on input line 194.
 (pdftex.def)             Requested size: 341.43306pt x 131.54713pt.
 <./imagen/f.png, id=72, 861.9703pt x 465.23813pt>
 File: ./imagen/f.png Graphic file (type png)
 <use ./imagen/f.png>
-Package pdftex.def Info: ./imagen/f.png  used on input line 192.
+Package pdftex.def Info: ./imagen/f.png  used on input line 195.
 (pdftex.def)             Requested size: 341.43306pt x 184.28882pt.
- [12 <./imagen/pruebas.png> <./imagen/interface.png> <./imagen/f.png>]
+ [12 <./imagen/calcular.png> <./imagen/pruebas.png> <./imagen/interface.png>]
 File: ./imagen/20.png Graphic file (type png)
 <use ./imagen/20.png>
-Package pdftex.def Info: ./imagen/20.png  used on input line 201.
+Package pdftex.def Info: ./imagen/20.png  used on input line 204.
 (pdftex.def)             Requested size: 341.43306pt x 191.62976pt.
 <./imagen/21.png, id=79, 982.42032pt x 502.12593pt>
 File: ./imagen/21.png Graphic file (type png)
 <use ./imagen/21.png>
-Package pdftex.def Info: ./imagen/21.png  used on input line 205.
+Package pdftex.def Info: ./imagen/21.png  used on input line 208.
 (pdftex.def)             Requested size: 341.43306pt x 174.5055pt.
-<./imagen/22.png, id=80, 859.71187pt x 253.69781pt>
+ [13 <./imagen/f.png>]
+<./imagen/22.png, id=85, 859.71187pt x 253.69781pt>
 File: ./imagen/22.png Graphic file (type png)
 <use ./imagen/22.png>
-Package pdftex.def Info: ./imagen/22.png  used on input line 209.
+Package pdftex.def Info: ./imagen/22.png  used on input line 212.
 (pdftex.def)             Requested size: 341.43306pt x 100.7573pt.
-
-[13 <./imagen/21.png>] [14 <./imagen/22.png>]
+ [14 <./imagen/21.png> <./imagen/22.png>]
 No file Trabajo-Final-Unidad-I.bbl.
 
 ("E:\UPT EPIS 2020-II\Calidad y Pruebas de Software\UNIDAD I\Trabajo-Final-Unid
@@ -338,11 +343,11 @@ LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 3850 strings out of 480790
- 52583 string characters out of 2907046
+ 3862 strings out of 480790
+ 52885 string characters out of 2907046
  299542 words of memory out of 3000000
- 19816 multiletter control sequences out of 15000+200000
- 538940 words of font info for 48 fonts, out of 3000000 for 9000
+ 19824 multiletter control sequences out of 15000+200000
+ 539046 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,5n,35p,725b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progr
@@ -350,12 +355,13 @@ am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmt
-i10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+i10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/
+Program Files/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb>
 Output written on "E:\UPT EPIS 2020-II\Calidad y Pruebas de Software\UNIDAD I\T
-rabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.pdf" (14 pages, 168
-8065 bytes).
+rabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.pdf" (14 pages, 169
+6840 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
+ 117 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  96 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -158,11 +158,14 @@ UML es un lenguaje para hacer modelos y es independiente de los métodos de aná
 
 
 \begin{itemize}
-\item Existen diferentes tipos de arquitectura o patrones a seguir para desarrollar un software, en este caso voy a explicar en que consiste la aqruitectura de 3 Capas , que ami parecer es la mas general o la mas basica para desarrollar.
-	\item La Capa de Presentación : Donde se encuentran los formularios y la parte visual de la aplicación.
-	\item 	La Capa de Negocios  : Donde se encuentra toda la logica del negocio y clases que las componete es decir, Entidades y controladoras)
+\item Existen diferentes tipos de arquitectura o patrones a seguir para desarrollar un software, en este caso voy a explicar en que consiste la aqruitectura de 4 Capas , que a mi parecer es la mas general o la mas basica para desarrollar.
+	\item La Capa de Presentación : la que ve el usuario (también se la denomina «capa de usuario»), presenta el sistema al usuario, le comunica la información y captura la información del usuario en un mínimo de proceso (realiza un filtrado previo para comprobar que no hay errores de formato). También es conocida como interfaz gráfica y debe tener la característica de ser «amigable» (entendible y fácil de usar) para el usuario. Esta capa se comunica únicamente con la capa de negocio.
+	\item 	La Capa de Negocios  : es donde residen los programas que se ejecutan, se reciben las peticiones del usuario y se envían las respuestas tras el proceso. Se denomina capa de negocio (e incluso de lógica del negocio) porque es aquí donde se establecen todas las reglas que deben cumplirse. Esta capa se comunica con la capa de presentación, para recibir las solicitudes y presentar los resultados, y con la capa de datos, para solicitar al gestor de base de datos almacenar o recuperar datos de él. También se consideran aquí los programas de aplicación.
 
-	\item 	La Capa de Acceso a Datos: Donde se encuentra las conexiones y las transacciones que se utilizan para comunicarse con la base de datos.
+	\item 	La Capa de Entidad: es donde residen los datos y es la encargada de acceder a los mismos. Está formada por uno o más gestores de bases de datos que realizan todo el almacenamiento de datos, reciben solicitudes de almacenamiento o recuperación de información desde la capa de negocio.
+	
+	\item 	La Capa de Acceso a Datos: se gestiona el acceso a los datos de la aplicación. Se emplean gestores de bases de datos que realizan la recuperación y el almacenamiento físico de los datos a partir de solicitudes de la capa de negocio.
+	
 	\end{itemize}
 	\begin{center}
 	\includegraphics[width=7cm]{./imagen/23} 
