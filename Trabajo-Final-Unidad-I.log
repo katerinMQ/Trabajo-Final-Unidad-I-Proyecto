@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.8)  30 OCT 2020 22:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.8)  31 OCT 2020 08:23
 entering extended mode
 **./Trabajo-Final-Unidad-I.tex
 (Trabajo-Final-Unidad-I.tex
@@ -200,13 +200,13 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 )
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
 
 
 (C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
 
 
 (C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -219,36 +219,88 @@ Overfull \hbox (2.61108pt too wide) has occurred while \output is active
 [1
 
 
-{C:/Users/Percy/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
-<./imagen/Screenshot_2020-10-30 Code.png, id=14, 1333.98375pt x 467.7475pt>
+{C:/Users/Percy/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3]
+[4] [5]
+<./imagen/Screenshot_2020-10-30 Code.png, id=23, 1333.98375pt x 467.7475pt>
 File: ./imagen/Screenshot_2020-10-30 Code.png Graphic file (type png)
 <use ./imagen/Screenshot_2020-10-30 Code.png>
 Package pdftex.def Info: ./imagen/Screenshot_2020-10-30 Code.png  used on input
- line 98.
+ line 135.
 (pdftex.def)             Requested size: 341.43306pt x 119.72011pt.
- [3 <./imagen/Screenshot_2020-10-30 Code.png>]
-<./imagen/5.png, id=20, 447.92343pt x 180.675pt>
+<./imagen/foto1.png, id=25, 1020.06094pt x 460.72125pt>
+File: ./imagen/foto1.png Graphic file (type png)
+<use ./imagen/foto1.png>
+Package pdftex.def Info: ./imagen/foto1.png  used on input line 139.
+(pdftex.def)             Requested size: 341.43306pt x 154.21075pt.
+<./imagen/foto2.png, id=26, 1027.58907pt x 471.26062pt>
+File: ./imagen/foto2.png Graphic file (type png)
+<use ./imagen/foto2.png>
+Package pdftex.def Info: ./imagen/foto2.png  used on input line 143.
+(pdftex.def)             Requested size: 341.43306pt x 156.58073pt.
+ [6 <./imagen/Screenshot_2020-10-30 Code.png> <./imagen/foto1.png> <./imagen/fo
+to2.png>]
+<./imagen/5.png, id=33, 447.92343pt x 180.675pt>
 File: ./imagen/5.png Graphic file (type png)
 <use ./imagen/5.png>
-Package pdftex.def Info: ./imagen/5.png  used on input line 111.
+Package pdftex.def Info: ./imagen/5.png  used on input line 158.
 (pdftex.def)             Requested size: 341.43306pt x 137.72519pt.
-<./imagen/20.png, id=21, 983.17313pt x 551.81157pt>
-File: ./imagen/20.png Graphic file (type png)
-<use ./imagen/20.png>
-Package pdftex.def Info: ./imagen/20.png  used on input line 117.
-(pdftex.def)             Requested size: 341.43306pt x 191.62976pt.
- [4 <./imagen/5.png>] [5 <./imagen/20.png>] (Trabajo-Final-Unidad-I.aux
+<./imagen/Screenshot_3.png, id=34, 328.22626pt x 124.96687pt>
+File: ./imagen/Screenshot_3.png Graphic file (type png)
+<use ./imagen/Screenshot_3.png>
+Package pdftex.def Info: ./imagen/Screenshot_3.png  used on input line 165.
+(pdftex.def)             Requested size: 341.43306pt x 129.9968pt.
+ [7 <./imagen/5.png>]
+<./imagen/Screenshot_4.png, id=40, 345.54094pt x 299.61937pt>
+File: ./imagen/Screenshot_4.png Graphic file (type png)
+<use ./imagen/Screenshot_4.png>
+Package pdftex.def Info: ./imagen/Screenshot_4.png  used on input line 170.
+(pdftex.def)             Requested size: 341.43306pt x 296.06175pt.
+<./imagen/Screenshot_7.png, id=41, 420.82219pt x 95.6072pt>
+File: ./imagen/Screenshot_7.png Graphic file (type png)
+<use ./imagen/Screenshot_7.png>
+Package pdftex.def Info: ./imagen/Screenshot_7.png  used on input line 174.
+(pdftex.def)             Requested size: 341.43306pt x 77.57123pt.
+ [8 <./imagen/Screenshot_3.png> <./imagen/Screenshot_4.png>]
+<./imagen/Screenshot_6.png, id=47, 471.26062pt x 182.93344pt>
+File: ./imagen/Screenshot_6.png Graphic file (type png)
+<use ./imagen/Screenshot_6.png>
+Package pdftex.def Info: ./imagen/Screenshot_6.png  used on input line 178.
+(pdftex.def)             Requested size: 341.43306pt x 132.5382pt.
+<./imagen/Screenshot_5.png, id=48, 460.72125pt x 167.87718pt>
+File: ./imagen/Screenshot_5.png Graphic file (type png)
+<use ./imagen/Screenshot_5.png>
+Package pdftex.def Info: ./imagen/Screenshot_5.png  used on input line 182.
+(pdftex.def)             Requested size: 341.43306pt x 124.40904pt.
+<./imagen/Screenshot_8.png, id=49, 613.54219pt x 390.70969pt>
+File: ./imagen/Screenshot_8.png Graphic file (type png)
+<use ./imagen/Screenshot_8.png>
+Package pdftex.def Info: ./imagen/Screenshot_8.png  used on input line 187.
+(pdftex.def)             Requested size: 341.43306pt x 217.43068pt.
+ [9 <./imagen/Screenshot_7.png> <./imagen/Screenshot_6.png> <./imagen/Screensho
+t_5.png>]
+<./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnosticoMedico Team Stories B
+oard - Boards.png, id=56, 1330.9725pt x 737.75626pt>
+File: ./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnosticoMedico Team Stor
+ies Board - Boards.png Graphic file (type png)
+<use ./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnosticoMedico Team Stori
+es Board - Boards.png>
+Package pdftex.def Info: ./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnost
+icoMedico Team Stories Board - Boards.png  used on input line 193.
+(pdftex.def)             Requested size: 341.43306pt x 189.24545pt.
+ [10 <./imagen/Screenshot_8.png> <./imagen/Screenshot_2020-10-31 ProyectoSistem
+aDiagnosticoMedico Team Stories Board - Boards.png>] (Trabajo-Final-Unidad-I.au
+x
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 3716 strings out of 480790
- 50617 string characters out of 2897301
- 302542 words of memory out of 3000000
- 19700 multiletter control sequences out of 15000+200000
+ 3765 strings out of 480790
+ 52303 string characters out of 2897301
+ 300578 words of memory out of 3000000
+ 19740 multiletter control sequences out of 15000+200000
  538940 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,5n,35p,725b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,5n,35p,724b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Percy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmbx12.pfb><C:/Users/Percy/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmbxti10.pfb><C:/Users/Percy/AppData/Local/Programs/MiKTeX/fonts/type
@@ -256,9 +308,9 @@ sfonts/cm/cmbxti10.pfb><C:/Users/Percy/AppData/Local/Programs/MiKTeX/fonts/type
 nts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Percy/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Percy/AppData/Local/P
 rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Trabajo-Final-Unidad-I.pdf (5 pages, 191006 bytes).
+Output written on Trabajo-Final-Unidad-I.pdf (10 pages, 284453 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
+ 82 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
