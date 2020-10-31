@@ -16,7 +16,7 @@
 		\title{\huge  PROYECTO DE  ANALISIS Y  MEJORAMIENTO DE  SOFTWARE }
 		\author{Katerin Merino Quispe              (2018060918)}
 		\author{Percy Taquila                ()}
-		\author{Abraham                ()}
+		\author{Abraham Lipa Calabilla (2019064039)}
 		\author{Edwart                ()}
 		\author{Liz                ()}
 		\address{Tacna, Perú}
@@ -26,7 +26,7 @@
 %%INICIO abstract
 \begin{abstract}
 This document is intended to present patient care in a concise and clear way, diagnosing their possible disease with terms of software that would be carried out in the system. In this documentation, the requirements that will serve as a guide to develop the software in its different stages will be reflected, helping us to validate and inspect its construction, applying the Software quality.
-Therefore, we will work with Sonarqube for the analysis of static code to analyze the code and find code errors, and security vulnerabilities. SonarSource's C char analysis has extensive coverage of well-established quality standards.  
+Therefore, we will work with Sonarqube for the analysis of static code to analyze the code and find code errors, and security vulnerabilities. SonarSource's C Sharp analysis has extensive coverage of well-established quality standards.  
 \end{abstract}
 %%FIN abstract
 
@@ -35,18 +35,20 @@ Therefore, we will work with Sonarqube for the analysis of static code to analyz
 %%INICIO Introducción
 \section{Antecedentes o Introducción}
 
-El "Sistema de Diagnostico Medico" esta desarrollado para que la atención a los pacientes sean mas rápidas, ya que en esta pandemia hace que la atencion sea insufiente, falta de tiempo y con este sistema se busca atender mas rápido y de forma ordenada a los pacientes que vienen a sus consultas, con este sistema se diagnostica al paciente con los síntomas que nos diga en el momento de la consulta y dar como resultado su posible enfermedad que tiene y las recomendaciones que debe seguir para recuperarse.
+El ''Sistema de Diagnostico Médico'' está desarrollado para que la atención a los pacientes sea mas rápida, ya que en esta pandemia hace que la atencion sea insufiente, falta de tiempo y con este sistema se busca atender mas rápido y de forma ordenada a los pacientes que vienen a sus consultas, con este sistema se diagnostica al paciente con los síntomas que nos diga en el momento de la consulta y dar como resultado su posible enfermedad que tiene y las recomendaciones que debe seguir para recuperarse.
 %%FIN Introducción
 
 %%INICIO Titulo
 \section{Titulo}
-"Sistema de Diagnostico Medico"
+''Sistema de Diagnostico Medico''
+
 Propuesta de un sistema de atención al paciente diagnosticando su posible enfermedad.
 %%FIN Titulo
 %%INICIO Autores
 \section{Autores}
 \begin{itemize}
     \item Katerin Merino Quispe
+    \item Abraham Lipa Calabilla
     
 \end{itemize}
 %%FIN Autores
@@ -109,15 +111,15 @@ SonarQube, como tantas otras herramientas similares, permite realizar análisis 
 	
 	Una muestra en Nuestro proyecto:
 		
-        \begin{center}
-	\includegraphics[width=12cm]{./imagen/7} 
+\begin{center}
+	\includegraphics[width=12cm]{./imagen/Screenshot_2020-10-30 Code.png} 
 	\end{center}
 \end{itemize}
 
 \subsection{\textbf{Tecnología de información  }}
 		\begin{itemize}
 	\item 	SQL SERVER: Microsoft SQL Server es un sistema de gestión de base de datos relacional, desarrollado por la empresa Microsoft. El lenguaje de desarrollo utilizado es Transact-SQL, una implementación del estándar ANSI del lenguaje SQL, utilizado para manipular y recuperar datos, crear tablas y definir relaciones entre ellas..
-	\item 	C char : lenguaje de programación multiparadigma desarrollado y estandarizado por Microsoft. Es un lenguaje de programación creado para diseñar aplicaciones en la plataforma.NET.
+	\item 	C-Sharp : lenguaje de programación multiparadigma desarrollado y estandarizado por Microsoft. Es un lenguaje de programación creado para diseñar aplicaciones en la plataforma.NET.
 	\item 	Visual Studio: es un entorno de desarrollo en diferentes sistemas operativos y compatibles con múltiples lenguajes de programación al igual que entornos de desarrollo web. 
 	\end{itemize}
 \subsection{\textbf{ Metodología, técnicas usadas  }}
@@ -133,21 +135,32 @@ UML es un lenguaje para hacer modelos y es independiente de los métodos de aná
 	\end{center}
 
 \section{Resultado Sonarqube}
-	Definición de métricas
-	\begin{itemize}
-	    \item Código duplicado
+Definición de métricas
+
+\begin{itemize}
+
+		\item Descripción del proyecto
 	\begin{center}
-	\includegraphics[width=12cm]{./imagen/8} 
+	\includegraphics[width=12cm]{./imagen/Screenshot_2020-10-30 Project Overview.png} 
 	\end{center}
-	\item Mantenibilidad
+
+		\item Código duplicado
 	\begin{center}
-	\includegraphics[width=12cm]{./imagen/9} 
+	\includegraphics[width=12cm]{./imagen/Screenshot_2020-10-30 Duplications Overview.png} 
 	\end{center}
-	\item Medida
-		\begin{center}
-	\includegraphics[width=12cm]{./imagen/10} 
+
+		\item Mantenibilidad
+	\begin{center}
+	\includegraphics[width=12cm]{./imagen/Screenshot_2020-10-30 Maintainability Overview.png} 
 	\end{center}
-	\end{itemize}
+	
+		\item Seguridad
+	\begin{center}
+	\includegraphics[width=12cm]{./imagen/Screenshot_2020-10-30 Security Overview.png} 
+	\end{center}
+	
+\end{itemize}
+
 \section{Desarrollo de Solución de Mejora}
 \subsection{\textbf{ Casos de Uso de la aplicación}}
 \begin{center}
@@ -159,20 +172,23 @@ UML es un lenguaje para hacer modelos y es independiente de los métodos de aná
 
 \begin{itemize}
 \item Existen diferentes tipos de arquitectura o patrones a seguir para desarrollar un software, en este caso voy a explicar en que consiste la aqruitectura de 4 Capas , que a mi parecer es la mas general o la mas basica para desarrollar.
-	\item La Capa de Presentación : la que ve el usuario (también se la denomina «capa de usuario»), presenta el sistema al usuario, le comunica la información y captura la información del usuario en un mínimo de proceso (realiza un filtrado previo para comprobar que no hay errores de formato). También es conocida como interfaz gráfica y debe tener la característica de ser «amigable» (entendible y fácil de usar) para el usuario. Esta capa se comunica únicamente con la capa de negocio.
-	\item 	La Capa de Negocios  : es donde residen los programas que se ejecutan, se reciben las peticiones del usuario y se envían las respuestas tras el proceso. Se denomina capa de negocio (e incluso de lógica del negocio) porque es aquí donde se establecen todas las reglas que deben cumplirse. Esta capa se comunica con la capa de presentación, para recibir las solicitudes y presentar los resultados, y con la capa de datos, para solicitar al gestor de base de datos almacenar o recuperar datos de él. También se consideran aquí los programas de aplicación.
-
-	\item 	La Capa de Entidad: es donde residen los datos y es la encargada de acceder a los mismos. Está formada por uno o más gestores de bases de datos que realizan todo el almacenamiento de datos, reciben solicitudes de almacenamiento o recuperación de información desde la capa de negocio.
-	
-	\item 	La Capa de Acceso a Datos: se gestiona el acceso a los datos de la aplicación. Se emplean gestores de bases de datos que realizan la recuperación y el almacenamiento físico de los datos a partir de solicitudes de la capa de negocio.
+\item La Capa de Presentación : la que ve el usuario (también se la denomina «capa de usuario»), presenta el sistema al usuario, le comunica la información y captura la información del usuario en un mínimo de proceso (realiza un filtrado previo para comprobar que no hay errores de formato). También es conocida como interfaz gráfica y debe tener la característica de ser «amigable» (entendible y fácil de usar) para el usuario. Esta capa se comunica únicamente con la capa de negocio.
+\item La Capa de Negocios  : es donde residen los programas que se ejecutan, se reciben las peticiones del usuario y se envían las respuestas tras el proceso. Se denomina capa de negocio (e incluso de lógica del negocio) porque es aquí donde se establecen todas las reglas que deben cumplirse. Esta capa se comunica con la capa de presentación, para recibir las solicitudes y presentar los resultados, y con la capa de datos, para solicitar al gestor de base de datos almacenar o recuperar datos de él. También se consideran aquí los programas de aplicación.
+\item La Capa de Entidad: es donde residen los datos y es la encargada de acceder a los mismos. Está formada por uno o más gestores de bases de datos que realizan todo el almacenamiento de datos, reciben solicitudes de almacenamiento o recuperación de información desde la capa de negocio.
+\item La Capa de Acceso a Datos: se gestiona el acceso a los datos de la aplicación. Se emplean gestores de bases de datos que realizan la recuperación y el almacenamiento físico de los datos a partir de solicitudes de la capa de negocio.
 	
 	\end{itemize}
 	\begin{center}
 	\includegraphics[width=7cm]{./imagen/23} 
 	\end{center}
-	\begin{center}
-\includegraphics[width=7cm]{./imagen/4capas} 
-	\end{center}
+
+
+Estructura de la solución en Visual Studio
+
+\begin{center}
+	\includegraphics[width=7cm]{./imagen/Screenshot_1.png}
+\end{center}
+
 \subsection{\textbf{ Diagrama de Clases de la aplicación }}
 \begin{center}
 	\includegraphics[width=12cm]{./imagen/diagrmclasesvistaprocesos} 
@@ -180,20 +196,30 @@ UML es un lenguaje para hacer modelos y es independiente de los métodos de aná
 	\end{center}
 
 \subsection{\textbf{  Metodos de pruebas implementados para coberturar la aplicación }}
-\renewcommand{\labelenumi}{{\theenumi})}
+\renewcommand{\labelenumi}{{\theenumi}}
 \begin{enumerate}
+
 \item  Pruebas Unitarias  
+
 \begin{center}
-	\includegraphics[width=12cm]{./imagen/calcular} 
+	\includegraphics[width=12cm]{./imagen/code_1.png} 
+	\includegraphics[width=12cm]{./imagen/code_2.png} 
+	\includegraphics[width=12cm]{./imagen/code_3.png} 
 	\end{center}
+
+\item Ejecución de pruebas unitarias
+
 \begin{center}
-	\includegraphics[width=12cm]{./imagen/pruebas} 
+	\includegraphics[width=12cm]{./imagen/Screenshot_2.png}
 	\end{center}
+
 \item  Pruebas de Interfaz 
+
 \begin{center}
 	\includegraphics[width=12cm]{./imagen/interface} 
 \includegraphics[width=12cm]{./imagen/f} 
 	\end{center}
+
 \item Pruebas basadas en Desarrollo Guiado por el Comportamiento
 \end{enumerate}
 \section{Desplegar las pruebas automatizas  Azure Devops y Git gub actions }
