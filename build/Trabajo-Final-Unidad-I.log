@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  30 OCT 2020 17:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  30 OCT 2020 20:34
 entering extended mode
 **./Trabajo-Final-Unidad-I.tex
 (Trabajo-Final-Unidad-I.tex
@@ -68,6 +68,8 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \@sep=\skip49
 \@@sep=\skip50
 
+("E:\UPT EPIS 2020-II\Calidad y Pruebas de Software\UNIDAD I\Trabajo-Final-Unid
+ad-I-Proyecto\build\Trabajo-Final-Unidad-I.spl")
 (C:\Users\KATHERIN\AppData\Roaming\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip51
@@ -153,7 +155,11 @@ File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count192
 \l__pdf_internal_box=\box52
 )
-No file Trabajo-Final-Unidad-I.aux.
+("E:\UPT EPIS 2020-II\Calidad y Pruebas de Software\UNIDAD I\Trabajo-Final-Unid
+ad-I-Proyecto\build\Trabajo-Final-Unidad-I.aux"
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
 \openout1 = `Trabajo-Final-Unidad-I.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -170,6 +176,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
+
 ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count193
@@ -190,13 +197,13 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 )
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
 
 
 ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
 
 
 ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
@@ -213,121 +220,116 @@ Overfull \hbox (2.61108pt too wide) has occurred while \output is active
 <./imagen/1.png, id=15, 534.49687pt x 331.2375pt>
 File: ./imagen/1.png Graphic file (type png)
 <use ./imagen/1.png>
-Package pdftex.def Info: ./imagen/1.png  used on input line 89.
+Package pdftex.def Info: ./imagen/1.png  used on input line 86.
 (pdftex.def)             Requested size: 341.43306pt x 211.60208pt.
 <./imagen/2.png, id=17, 426.0645pt x 223.0515pt>
 File: ./imagen/2.png Graphic file (type png)
 <use ./imagen/2.png>
-Package pdftex.def Info: ./imagen/2.png  used on input line 93.
+Package pdftex.def Info: ./imagen/2.png  used on input line 90.
 (pdftex.def)             Requested size: 341.43306pt x 178.74434pt.
 
 [3 <./imagen/1.png>]
 <./imagen/3.jpg, id=22, 426.0645pt x 215.1675pt>
 File: ./imagen/3.jpg Graphic file (type jpg)
 <use ./imagen/3.jpg>
-Package pdftex.def Info: ./imagen/3.jpg  used on input line 97.
+Package pdftex.def Info: ./imagen/3.jpg  used on input line 94.
 (pdftex.def)             Requested size: 341.43306pt x 172.4264pt.
  [4 <./imagen/2.png> <./imagen/3.jpg>]
 <./imagen/7.png, id=26, 938.75719pt x 353.06906pt>
 File: ./imagen/7.png Graphic file (type png)
 <use ./imagen/7.png>
-Package pdftex.def Info: ./imagen/7.png  used on input line 116.
+Package pdftex.def Info: ./imagen/7.png  used on input line 113.
 (pdftex.def)             Requested size: 341.43306pt x 128.4139pt.
  [5 <./imagen/7.png>]
-<./imagen/5.png, id=31, 460.72125pt x 118.94438pt>
+<./imagen/5.png, id=31, 447.92343pt x 180.675pt>
 File: ./imagen/5.png Graphic file (type png)
 <use ./imagen/5.png>
-Package pdftex.def Info: ./imagen/5.png  used on input line 129.
-(pdftex.def)             Requested size: 341.43306pt x 88.1463pt.
-<./imagen/20.png, id=32, 982.42032pt x 534.49687pt>
+Package pdftex.def Info: ./imagen/5.png  used on input line 126.
+(pdftex.def)             Requested size: 341.43306pt x 137.72519pt.
+<./imagen/20.png, id=32, 983.17313pt x 551.81157pt>
 File: ./imagen/20.png Graphic file (type png)
 <use ./imagen/20.png>
-Package pdftex.def Info: ./imagen/20.png  used on input line 135.
-(pdftex.def)             Requested size: 341.43306pt x 185.75546pt.
-[6 <./imagen/5.png> <./imagen/20.png>]
-<./imagen/8.png, id=38, 682.80093pt x 364.36125pt>
+Package pdftex.def Info: ./imagen/20.png  used on input line 132.
+(pdftex.def)             Requested size: 341.43306pt x 191.62976pt.
+[6 <./imagen/5.png>]
+<./imagen/8.png, id=37, 682.80093pt x 364.36125pt>
 File: ./imagen/8.png Graphic file (type png)
 <use ./imagen/8.png>
-Package pdftex.def Info: ./imagen/8.png  used on input line 143.
+Package pdftex.def Info: ./imagen/8.png  used on input line 140.
 (pdftex.def)             Requested size: 341.43306pt x 182.20241pt.
-<./imagen/9.png, id=39, 733.23938pt x 392.96812pt>
+<./imagen/9.png, id=38, 733.23938pt x 392.96812pt>
 File: ./imagen/9.png Graphic file (type png)
 <use ./imagen/9.png>
-Package pdftex.def Info: ./imagen/9.png  used on input line 147.
+Package pdftex.def Info: ./imagen/9.png  used on input line 144.
 (pdftex.def)             Requested size: 341.43306pt x 182.98611pt.
-<./imagen/10.png, id=40, 921.4425pt x 467.49657pt>
+ [7 <./imagen/20.png> <./imagen/8.png>]
+<./imagen/10.png, id=45, 921.4425pt x 467.49657pt>
 File: ./imagen/10.png Graphic file (type png)
 <use ./imagen/10.png>
-Package pdftex.def Info: ./imagen/10.png  used on input line 151.
+Package pdftex.def Info: ./imagen/10.png  used on input line 148.
 (pdftex.def)             Requested size: 341.43306pt x 173.22069pt.
- [7 <./imagen/8.png> <./imagen/9.png>]
-<./imagen/casouso.png, id=47, 621.82312pt x 408.77719pt>
+<./imagen/casouso.png, id=46, 536.0025pt x 481.8pt>
 File: ./imagen/casouso.png Graphic file (type png)
 <use ./imagen/casouso.png>
-Package pdftex.def Info: ./imagen/casouso.png  used on input line 157.
-(pdftex.def)             Requested size: 341.43306pt x 224.45389pt.
-
-[8 <./imagen/10.png> <./imagen/casouso.png>]
-<./imagen/capas.jpg, id=53, 183.68625pt x 284.06125pt>
-File: ./imagen/capas.jpg Graphic file (type jpg)
-<use ./imagen/capas.jpg>
-Package pdftex.def Info: ./imagen/capas.jpg  used on input line 171.
-(pdftex.def)             Requested size: 199.16928pt x 308.02553pt.
-<./imagen/vistalogica.png, id=54, 625.58719pt x 458.46281pt>
-File: ./imagen/vistalogica.png Graphic file (type png)
-<use ./imagen/vistalogica.png>
-Package pdftex.def Info: ./imagen/vistalogica.png  used on input line 174.
-(pdftex.def)             Requested size: 341.43306pt x 250.22455pt.
-<./imagen/3capas.png, id=55, 191.21437pt x 135.50626pt>
-File: ./imagen/3capas.png Graphic file (type png)
-<use ./imagen/3capas.png>
-Package pdftex.def Info: ./imagen/3capas.png  used on input line 175.
-(pdftex.def)             Requested size: 199.16928pt x 141.1506pt.
- [9 <./imagen/capas.jpg>]
-<./imagen/diagrmclasesvistaprocesos.png, id=59, 632.3625pt x 444.15938pt>
+Package pdftex.def Info: ./imagen/casouso.png  used on input line 154.
+(pdftex.def)             Requested size: 341.43306pt x 306.90266pt.
+ [8 <./imagen/9.png> <./imagen/10.png>]
+<./imagen/23.png, id=52, 302.63063pt x 341.77687pt>
+File: ./imagen/23.png Graphic file (type png)
+<use ./imagen/23.png>
+Package pdftex.def Info: ./imagen/23.png  used on input line 168.
+(pdftex.def)             Requested size: 199.16928pt x 224.93198pt.
+ [9 <./imagen/casouso.png>]
+<./imagen/4capas.png, id=57, 232.61906pt x 237.88875pt>
+File: ./imagen/4capas.png Graphic file (type png)
+<use ./imagen/4capas.png>
+Package pdftex.def Info: ./imagen/4capas.png  used on input line 171.
+(pdftex.def)             Requested size: 199.16928pt x 203.68736pt.
+<./imagen/diagrmclasesvistaprocesos.png, id=58, 592.46344pt x 415.5525pt>
 File: ./imagen/diagrmclasesvistaprocesos.png Graphic file (type png)
 <use ./imagen/diagrmclasesvistaprocesos.png>
 Package pdftex.def Info: ./imagen/diagrmclasesvistaprocesos.png  used on input 
-line 179.
-(pdftex.def)             Requested size: 341.43306pt x 239.82214pt.
- [10 <./imagen/vistalogica.png> <./imagen/3capas.png>]
-<./imagen/calcular.png, id=65, 516.42938pt x 277.78781pt>
+line 175.
+(pdftex.def)             Requested size: 341.43306pt x 239.48613pt.
+ [10 <./imagen/23.png> <./imagen/4capas.png>]
+<./imagen/calcular.png, id=64, 516.42938pt x 277.78781pt>
 File: ./imagen/calcular.png Graphic file (type png)
 <use ./imagen/calcular.png>
-Package pdftex.def Info: ./imagen/calcular.png  used on input line 188.
+Package pdftex.def Info: ./imagen/calcular.png  used on input line 184.
 (pdftex.def)             Requested size: 341.43306pt x 183.66264pt.
-<./imagen/pruebas.png, id=66, 655.69969pt x 246.9225pt>
+<./imagen/pruebas.png, id=65, 655.69969pt x 246.9225pt>
 File: ./imagen/pruebas.png Graphic file (type png)
 <use ./imagen/pruebas.png>
-Package pdftex.def Info: ./imagen/pruebas.png  used on input line 191.
+Package pdftex.def Info: ./imagen/pruebas.png  used on input line 187.
 (pdftex.def)             Requested size: 341.43306pt x 128.5775pt.
  [11 <./imagen/diagrmclasesvistaprocesos.png> <./imagen/calcular.png>]
-<./imagen/interface.png, id=72, 603.75563pt x 232.61906pt>
+<./imagen/interface.png, id=71, 603.75563pt x 232.61906pt>
 File: ./imagen/interface.png Graphic file (type png)
 <use ./imagen/interface.png>
-Package pdftex.def Info: ./imagen/interface.png  used on input line 195.
+Package pdftex.def Info: ./imagen/interface.png  used on input line 191.
 (pdftex.def)             Requested size: 341.43306pt x 131.54713pt.
-<./imagen/f.png, id=73, 861.9703pt x 465.23813pt>
+<./imagen/f.png, id=72, 861.9703pt x 465.23813pt>
 File: ./imagen/f.png Graphic file (type png)
 <use ./imagen/f.png>
-Package pdftex.def Info: ./imagen/f.png  used on input line 196.
+Package pdftex.def Info: ./imagen/f.png  used on input line 192.
 (pdftex.def)             Requested size: 341.43306pt x 184.28882pt.
  [12 <./imagen/pruebas.png> <./imagen/interface.png> <./imagen/f.png>]
 File: ./imagen/20.png Graphic file (type png)
 <use ./imagen/20.png>
-Package pdftex.def Info: ./imagen/20.png  used on input line 205.
-(pdftex.def)             Requested size: 341.43306pt x 185.75546pt.
-<./imagen/21.png, id=80, 1027.58907pt x 475.02469pt>
+Package pdftex.def Info: ./imagen/20.png  used on input line 201.
+(pdftex.def)             Requested size: 341.43306pt x 191.62976pt.
+<./imagen/21.png, id=79, 982.42032pt x 502.12593pt>
 File: ./imagen/21.png Graphic file (type png)
 <use ./imagen/21.png>
-Package pdftex.def Info: ./imagen/21.png  used on input line 209.
-(pdftex.def)             Requested size: 341.43306pt x 157.83138pt.
-<./imagen/22.png, id=81, 859.71187pt x 253.69781pt>
+Package pdftex.def Info: ./imagen/21.png  used on input line 205.
+(pdftex.def)             Requested size: 341.43306pt x 174.5055pt.
+<./imagen/22.png, id=80, 859.71187pt x 253.69781pt>
 File: ./imagen/22.png Graphic file (type png)
 <use ./imagen/22.png>
-Package pdftex.def Info: ./imagen/22.png  used on input line 213.
+Package pdftex.def Info: ./imagen/22.png  used on input line 209.
 (pdftex.def)             Requested size: 341.43306pt x 100.7573pt.
- [13 <./imagen/21.png>] [14 <./imagen/22.png>]
+
+[13 <./imagen/21.png>] [14 <./imagen/22.png>]
 No file Trabajo-Final-Unidad-I.bbl.
 
 ("E:\UPT EPIS 2020-II\Calidad y Pruebas de Software\UNIDAD I\Trabajo-Final-Unid
@@ -336,10 +338,10 @@ LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 3855 strings out of 480790
- 52331 string characters out of 2907046
- 299376 words of memory out of 3000000
- 19824 multiletter control sequences out of 15000+200000
+ 3850 strings out of 480790
+ 52583 string characters out of 2907046
+ 299542 words of memory out of 3000000
+ 19816 multiletter control sequences out of 15000+200000
  538940 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,5n,35p,725b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -350,10 +352,10 @@ ype1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmt
 i10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
 Output written on "E:\UPT EPIS 2020-II\Calidad y Pruebas de Software\UNIDAD I\T
-rabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.pdf" (14 pages, 196
-3770 bytes).
+rabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.pdf" (14 pages, 168
+8065 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
+ 113 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
