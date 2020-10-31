@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 PWD d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\Trabajo-Final-Unidad-I.tex
 OUTPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.log
+=======
+PWD d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp
+INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\Trabajo-Final-Unidad-I.tex
+OUTPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.log
+>>>>>>> master
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\elsarticle\elsarticle.cls
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\elsarticle\elsarticle.cls
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\elsarticle\elsarticle.cls
@@ -70,10 +77,17 @@ INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\grap
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+<<<<<<< HEAD
 INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.spl
 INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.spl
 INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.spl
 INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.spl
+=======
+INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.spl
+INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.spl
+INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.spl
+INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.spl
+>>>>>>> master
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\natbib\natbib.sty
@@ -83,7 +97,11 @@ INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\natb
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\natbib\natbib.sty
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\natbib\natbib.sty
+<<<<<<< HEAD
 OUTPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.spl
+=======
+OUTPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.spl
+>>>>>>> master
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
@@ -157,10 +175,17 @@ INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\l3ba
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+<<<<<<< HEAD
 INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.aux
 INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.aux
 INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.aux
 OUTPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.aux
+=======
+INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.aux
+INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.aux
+INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.aux
+OUTPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.aux
+>>>>>>> master
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -203,7 +228,11 @@ INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\fonts\tfm\publ
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+<<<<<<< HEAD
 OUTPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.pdf
+=======
+OUTPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.pdf
+>>>>>>> master
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
@@ -278,6 +307,7 @@ INPUT .\imagen\casouso.png
 INPUT .\imagen\casouso.png
 INPUT .\imagen\casouso.png
 INPUT .\imagen\casouso.png
+<<<<<<< HEAD
 INPUT .\imagen\capas.jpg
 INPUT imagen\capas.jpg
 INPUT .\imagen\capas.jpg
@@ -290,6 +320,19 @@ INPUT .\imagen\vistalogica.png
 INPUT .\imagen\vistalogica.png
 INPUT .\imagen\vistalogica.png
 INPUT .\imagen\vistalogica.png
+=======
+INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
+INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
+INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
+INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
+INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\lasy10.tfm
+INPUT .\imagen\23.png
+INPUT imagen\23.png
+INPUT .\imagen\23.png
+INPUT .\imagen\23.png
+INPUT .\imagen\23.png
+INPUT .\imagen\23.png
+>>>>>>> master
 INPUT .\imagen\Screenshot_1.png
 INPUT .\imagen\Screenshot_1.png
 INPUT imagen\Screenshot_1.png
@@ -358,11 +401,19 @@ INPUT .\imagen\22.png
 INPUT .\imagen\22.png
 INPUT .\imagen\22.png
 INPUT .\imagen\22.png
+<<<<<<< HEAD
 INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.bbl
 INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.bbl
 INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.bbl
 INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.bbl
 INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.aux
+=======
+INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.bbl
+INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.bbl
+INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.bbl
+INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.bbl
+INPUT d:\Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.aux
+>>>>>>> master
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
@@ -375,3 +426,8 @@ INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\fonts\type1\pu
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
+<<<<<<< HEAD
+=======
+INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\latxfont\lasy10.pfb
+INPUT C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\latxfont\lasy10.pfb
+>>>>>>> master

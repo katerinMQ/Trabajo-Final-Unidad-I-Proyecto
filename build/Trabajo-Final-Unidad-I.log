@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.14)  30 OCT 2020 20:56
 entering extended mode
 **d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto/Trabajo-Final-Unidad-I.tex
 (d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto/Trabajo-Final-Unidad-I.tex
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.14)  30 OCT 2020 21:20
+entering extended mode
+**d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto-Temp/Trabajo-Final-Unidad-I.tex
+(d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto-Temp/Trabajo-Final-Unidad-I.tex
+>>>>>>> master
 LaTeX2e <2020-10-01> patch level 1
 L3 programming layer <2020-10-05> xparse <2020-03-03> (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/elsarticle\elsarticle.cls
 Document Class: elsarticle 2019/02/25, 3.2: Elsevier Ltd
@@ -60,7 +67,11 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \@enLab=\toks17
 \@sep=\skip49
 \@@sep=\skip50
+<<<<<<< HEAD
  (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.spl) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+=======
+ (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.spl) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+>>>>>>> master
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip51
 \bibsep=\skip52
@@ -134,12 +145,17 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count266
 \l__pdf_internal_box=\box54
+<<<<<<< HEAD
 ) (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.aux
+=======
+) (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.aux
+>>>>>>> master
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
 \openout1 = `Trabajo-Final-Unidad-I.aux'.
 
+<<<<<<< HEAD
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
@@ -154,6 +170,22 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
+=======
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+>>>>>>> master
  (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count267
@@ -171,6 +203,7 @@ LaTeX Font Info:    ... okay on input line 11.
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 )
+<<<<<<< HEAD
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 36.
@@ -178,6 +211,15 @@ LaTeX Font Info:    Trying to load font information for U+msa on input line 36.
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 36.
+=======
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
+ (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
+>>>>>>> master
  (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -192,23 +234,36 @@ Overfull \hbox (2.61108pt too wide) has occurred while \output is active
 <./imagen/1.png, id=14, 534.49687pt x 331.2375pt>
 File: ./imagen/1.png Graphic file (type png)
 <use ./imagen/1.png>
+<<<<<<< HEAD
 Package pdftex.def Info: ./imagen/1.png  used on input line 90.
+=======
+Package pdftex.def Info: ./imagen/1.png  used on input line 88.
+>>>>>>> master
 (pdftex.def)             Requested size: 341.43306pt x 211.60208pt.
 <./imagen/2.png, id=16, 426.0645pt x 223.0515pt>
 File: ./imagen/2.png Graphic file (type png)
 <use ./imagen/2.png>
+<<<<<<< HEAD
 Package pdftex.def Info: ./imagen/2.png  used on input line 94.
+=======
+Package pdftex.def Info: ./imagen/2.png  used on input line 92.
+>>>>>>> master
 (pdftex.def)             Requested size: 341.43306pt x 178.74434pt.
  [3 <./imagen/1.png>]
 <./imagen/3.jpg, id=21, 426.0645pt x 215.1675pt>
 File: ./imagen/3.jpg Graphic file (type jpg)
 <use ./imagen/3.jpg>
+<<<<<<< HEAD
 Package pdftex.def Info: ./imagen/3.jpg  used on input line 98.
+=======
+Package pdftex.def Info: ./imagen/3.jpg  used on input line 96.
+>>>>>>> master
 (pdftex.def)             Requested size: 341.43306pt x 172.4264pt.
  [4 <./imagen/2.png> <./imagen/3.jpg>]
 <./imagen/Screenshot_2020-10-30 Code.png, id=25, 1333.98375pt x 467.7475pt>
 File: ./imagen/Screenshot_2020-10-30 Code.png Graphic file (type png)
 <use ./imagen/Screenshot_2020-10-30 Code.png>
+<<<<<<< HEAD
 Package pdftex.def Info: ./imagen/Screenshot_2020-10-30 Code.png  used on input line 117.
 (pdftex.def)             Requested size: 341.43306pt x 119.72011pt.
  [5 <./imagen/Screenshot_2020-10-30 Code.png>]
@@ -293,20 +348,113 @@ Package pdftex.def Info: ./imagen/code_3.png  used on input line 206.
 File: ./imagen/Screenshot_2.png Graphic file (type png)
 <use ./imagen/Screenshot_2.png>
 Package pdftex.def Info: ./imagen/Screenshot_2.png  used on input line 212.
+=======
+Package pdftex.def Info: ./imagen/Screenshot_2020-10-30 Code.png  used on input line 115.
+(pdftex.def)             Requested size: 341.43306pt x 119.72011pt.
+ [5 <./imagen/Screenshot_2020-10-30 Code.png>]
+<./imagen/5.png, id=30, 447.92343pt x 180.675pt>
+File: ./imagen/5.png Graphic file (type png)
+<use ./imagen/5.png>
+Package pdftex.def Info: ./imagen/5.png  used on input line 128.
+(pdftex.def)             Requested size: 341.43306pt x 137.72519pt.
+<./imagen/20.png, id=31, 983.17313pt x 551.81157pt>
+File: ./imagen/20.png Graphic file (type png)
+<use ./imagen/20.png>
+Package pdftex.def Info: ./imagen/20.png  used on input line 134.
+(pdftex.def)             Requested size: 341.43306pt x 191.62976pt.
+ [6 <./imagen/5.png>]
+<./imagen/Screenshot_2020-10-30 Project Overview.png, id=36, 981.6675pt x 596.2275pt>
+File: ./imagen/Screenshot_2020-10-30 Project Overview.png Graphic file (type png)
+<use ./imagen/Screenshot_2020-10-30 Project Overview.png>
+Package pdftex.def Info: ./imagen/Screenshot_2020-10-30 Project Overview.png  used on input line 144.
+(pdftex.def)             Requested size: 341.43306pt x 207.37268pt.
+<./imagen/Screenshot_2020-10-30 Duplications Overview.png, id=37, 982.67125pt x 523.9575pt>
+File: ./imagen/Screenshot_2020-10-30 Duplications Overview.png Graphic file (type png)
+<use ./imagen/Screenshot_2020-10-30 Duplications Overview.png>
+Package pdftex.def Info: ./imagen/Screenshot_2020-10-30 Duplications Overview.png  used on input line 149.
+(pdftex.def)             Requested size: 341.43306pt x 182.05272pt.
+ [7 <./imagen/20.png> <./imagen/Screenshot_2020-10-30 Project Overview.png>]
+<./imagen/Screenshot_2020-10-30 Maintainability Overview.png, id=44, 981.6675pt x 595.22375pt>
+File: ./imagen/Screenshot_2020-10-30 Maintainability Overview.png Graphic file (type png)
+<use ./imagen/Screenshot_2020-10-30 Maintainability Overview.png>
+Package pdftex.def Info: ./imagen/Screenshot_2020-10-30 Maintainability Overview.png  used on input line 154.
+(pdftex.def)             Requested size: 341.43306pt x 207.02357pt.
+<./imagen/Screenshot_2020-10-30 Security Overview.png, id=45, 981.6675pt x 595.22375pt>
+File: ./imagen/Screenshot_2020-10-30 Security Overview.png Graphic file (type png)
+<use ./imagen/Screenshot_2020-10-30 Security Overview.png>
+Package pdftex.def Info: ./imagen/Screenshot_2020-10-30 Security Overview.png  used on input line 159.
+(pdftex.def)             Requested size: 341.43306pt x 207.02357pt.
+ [8 <./imagen/Screenshot_2020-10-30 Duplications Overview.png> <./imagen/Screenshot_2020-10-30 Maintainability Overview.png>]
+<./imagen/casouso.png, id=51, 536.0025pt x 481.8pt>
+File: ./imagen/casouso.png Graphic file (type png)
+<use ./imagen/casouso.png>
+Package pdftex.def Info: ./imagen/casouso.png  used on input line 167.
+(pdftex.def)             Requested size: 341.43306pt x 306.90266pt.
+ [9 <./imagen/Screenshot_2020-10-30 Security Overview.png>]
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 175.
+ (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+) [10 <./imagen/casouso.png>]
+<./imagen/23.png, id=61, 302.63063pt x 341.77687pt>
+File: ./imagen/23.png Graphic file (type png)
+<use ./imagen/23.png>
+Package pdftex.def Info: ./imagen/23.png  used on input line 182.
+(pdftex.def)             Requested size: 199.16928pt x 224.93198pt.
+<./imagen/Screenshot_1.png, id=62, 236.38312pt x 91.84312pt>
+File: ./imagen/Screenshot_1.png Graphic file (type png)
+<use ./imagen/Screenshot_1.png>
+Package pdftex.def Info: ./imagen/Screenshot_1.png  used on input line 189.
+(pdftex.def)             Requested size: 199.16928pt x 77.38591pt.
+ [11 <./imagen/23.png>]
+<./imagen/diagrmclasesvistaprocesos.png, id=67, 592.46344pt x 415.5525pt>
+File: ./imagen/diagrmclasesvistaprocesos.png Graphic file (type png)
+<use ./imagen/diagrmclasesvistaprocesos.png>
+Package pdftex.def Info: ./imagen/diagrmclasesvistaprocesos.png  used on input line 194.
+(pdftex.def)             Requested size: 341.43306pt x 239.48613pt.
+<./imagen/code_1.png, id=68, 1750.54pt x 1264.725pt>
+File: ./imagen/code_1.png Graphic file (type png)
+<use ./imagen/code_1.png>
+Package pdftex.def Info: ./imagen/code_1.png  used on input line 205.
+(pdftex.def)             Requested size: 341.43306pt x 246.66862pt.
+<./imagen/code_2.png, id=69, 1766.6pt x 1132.23pt>
+File: ./imagen/code_2.png Graphic file (type png)
+<use ./imagen/code_2.png>
+Package pdftex.def Info: ./imagen/code_2.png  used on input line 206.
+(pdftex.def)             Requested size: 341.43306pt x 218.82309pt.
+<./imagen/code_3.png, id=70, 1638.12pt x 867.24pt>
+File: ./imagen/code_3.png Graphic file (type png)
+<use ./imagen/code_3.png>
+Package pdftex.def Info: ./imagen/code_3.png  used on input line 207.
+(pdftex.def)             Requested size: 341.43306pt x 180.74954pt.
+ [12 <./imagen/Screenshot_1.png> <./imagen/diagrmclasesvistaprocesos.png>] [13 <./imagen/code_1.png> <./imagen/code_2.png>]
+<./imagen/Screenshot_2.png, id=82, 288.3272pt x 112.92188pt>
+File: ./imagen/Screenshot_2.png Graphic file (type png)
+<use ./imagen/Screenshot_2.png>
+Package pdftex.def Info: ./imagen/Screenshot_2.png  used on input line 213.
+>>>>>>> master
 (pdftex.def)             Requested size: 341.43306pt x 133.72565pt.
 <./imagen/interface.png, id=83, 603.75563pt x 232.61906pt>
 File: ./imagen/interface.png Graphic file (type png)
 <use ./imagen/interface.png>
+<<<<<<< HEAD
 Package pdftex.def Info: ./imagen/interface.png  used on input line 218.
+=======
+Package pdftex.def Info: ./imagen/interface.png  used on input line 219.
+>>>>>>> master
 (pdftex.def)             Requested size: 341.43306pt x 131.54713pt.
 <./imagen/f.png, id=84, 861.9703pt x 465.23813pt>
 File: ./imagen/f.png Graphic file (type png)
 <use ./imagen/f.png>
+<<<<<<< HEAD
 Package pdftex.def Info: ./imagen/f.png  used on input line 219.
+=======
+Package pdftex.def Info: ./imagen/f.png  used on input line 220.
+>>>>>>> master
 (pdftex.def)             Requested size: 341.43306pt x 184.28882pt.
  [14 <./imagen/code_3.png> <./imagen/Screenshot_2.png> <./imagen/interface.png>]
 File: ./imagen/20.png Graphic file (type png)
 <use ./imagen/20.png>
+<<<<<<< HEAD
 Package pdftex.def Info: ./imagen/20.png  used on input line 229.
 (pdftex.def)             Requested size: 341.43306pt x 185.75546pt.
 <./imagen/21.png, id=91, 1027.58907pt x 475.02469pt>
@@ -314,17 +462,33 @@ File: ./imagen/21.png Graphic file (type png)
 <use ./imagen/21.png>
 Package pdftex.def Info: ./imagen/21.png  used on input line 233.
 (pdftex.def)             Requested size: 341.43306pt x 157.83138pt.
+=======
+Package pdftex.def Info: ./imagen/20.png  used on input line 230.
+(pdftex.def)             Requested size: 341.43306pt x 191.62976pt.
+<./imagen/21.png, id=91, 982.42032pt x 502.12593pt>
+File: ./imagen/21.png Graphic file (type png)
+<use ./imagen/21.png>
+Package pdftex.def Info: ./imagen/21.png  used on input line 234.
+(pdftex.def)             Requested size: 341.43306pt x 174.5055pt.
+>>>>>>> master
  [15 <./imagen/f.png>]
 <./imagen/22.png, id=96, 859.71187pt x 253.69781pt>
 File: ./imagen/22.png Graphic file (type png)
 <use ./imagen/22.png>
+<<<<<<< HEAD
 Package pdftex.def Info: ./imagen/22.png  used on input line 237.
 (pdftex.def)             Requested size: 341.43306pt x 100.7573pt.
  [16 <./imagen/21.png> <./imagen/22.png>] (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.bbl) (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.aux
+=======
+Package pdftex.def Info: ./imagen/22.png  used on input line 238.
+(pdftex.def)             Requested size: 341.43306pt x 100.7573pt.
+ [16 <./imagen/21.png> <./imagen/22.png>] (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.bbl) (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.aux
+>>>>>>> master
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  3946 strings out of 480236
  58396 string characters out of 2873432
  338551 words of memory out of 3000000
@@ -338,4 +502,19 @@ PDF statistics:
  122 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  116 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+ 3949 strings out of 480236
+ 58605 string characters out of 2873432
+ 338551 words of memory out of 3000000
+ 20447 multiletter control sequences out of 15000+200000
+ 541796 words of font info for 54 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,5n,77p,819b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb>
+Output written on d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.pdf (16 pages, 2038373 bytes).
+PDF statistics:
+ 125 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> master
 

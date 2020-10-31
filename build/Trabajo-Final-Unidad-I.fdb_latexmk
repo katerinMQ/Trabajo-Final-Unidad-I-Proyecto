@@ -1,4 +1,5 @@
 # Fdb version 3
+<<<<<<< HEAD
 ["bibtex build/Trabajo-Final-Unidad-I"] 1604109205 "build/Trabajo-Final-Unidad-I.aux" "build/Trabajo-Final-Unidad-I.bbl" "build/Trabajo-Final-Unidad-I" 1604109585
   "BIBLIOGRAFIA.bib" 1604103794 1222 0e21bdd2d06839f8f0aa15d7fb1512a2 ""
   "build/Trabajo-Final-Unidad-I.aux" 1604109380 2881 93c6b2b394200374c5e5ddefdf4cd31b "pdflatex"
@@ -6,6 +7,15 @@
   "build/Trabajo-Final-Unidad-I.blg"
   "build/Trabajo-Final-Unidad-I.bbl"
 ["pdflatex"] 1604109376 "d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto/Trabajo-Final-Unidad-I.tex" "d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto/build/Trabajo-Final-Unidad-I.pdf" "Trabajo-Final-Unidad-I" 1604109585
+=======
+["bibtex build/Trabajo-Final-Unidad-I"] 1604110709 "build/Trabajo-Final-Unidad-I.aux" "build/Trabajo-Final-Unidad-I.bbl" "build/Trabajo-Final-Unidad-I" 1604110836
+  "BIBLIOGRAFIA.bib" 1604110052 1222 0e21bdd2d06839f8f0aa15d7fb1512a2 ""
+  "build/Trabajo-Final-Unidad-I.aux" 1604110836 2884 e8aaf2377c0b957e4106cdad1ba0cebc "pdflatex"
+  (generated)
+  "build/Trabajo-Final-Unidad-I.blg"
+  "build/Trabajo-Final-Unidad-I.bbl"
+["pdflatex"] 1604110833 "d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto-Temp/Trabajo-Final-Unidad-I.tex" "d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto-Temp/build/Trabajo-Final-Unidad-I.pdf" "Trabajo-Final-Unidad-I" 1604110836
+>>>>>>> master
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1602724394 10266211 974fd4a60193a43ce6ee3b91775a456e ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1604104088 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -29,12 +39,20 @@
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti12.tfm" 1136765053 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
+<<<<<<< HEAD
+=======
+  "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/tfm/public/latex-fonts/lasy10.tfm" 1136765053 520 82a3d37183f34b6eb363a161dfc002c2 ""
+>>>>>>> master
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb" 1247596667 36554 b67dc2cfa451409e100b3fcf5f506509 ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247596667 36118 fad905eba93cff5bce1e185fe980a177 ""
+<<<<<<< HEAD
+=======
+  "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb" 1247596653 10304 e98704f815e417bc375e9a880a38e542 ""
+>>>>>>> master
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.def" 1601996307 114523 ea978f99731ab9964407deeb6ffd9c1c ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1601996307 37651 07cdc1bb605414f27d7312a06fbdf195 ""
@@ -48,6 +66,10 @@
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1602241124 20145 aad8c3dd3bc36e260347b84002182bc2 ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1602241124 5050 0d3b77275060ca09a40635b830c3c904 ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo" 1602241124 8450 6fd3588c0e9d06f6f56c6cf4f7246466 ""
+<<<<<<< HEAD
+=======
+  "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/tex/latex/base/ulasy.fd" 1602241124 2234 46373e8269e9960c9a311c7c046a0877 ""
+>>>>>>> master
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/tex/latex/elsarticle/elsarticle.cls" 1554553994 34550 b1f7b240d1f3f3a890c0902cdecf01f5 ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1580041542 14411 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.cfg" 1465894292 1224 978390e9c2234eab29404bc21b268d1e ""
@@ -60,6 +82,7 @@
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/tex/latex/lineno/lineno.sty" 1130951548 151738 8cd767481920f0eb785302dacfc87057 ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/tex/latex/natbib/natbib.sty" 1292249081 46712 1c8843383c0bd05870c45fa0ebea6cc2 ""
   "C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
+<<<<<<< HEAD
   "Trabajo-Final-Unidad-I.tex" 1604109584 11688 f07063babd4f43e2b2f07ae6fdd5e361 ""
   "build/Trabajo-Final-Unidad-I.aux" 1604109380 2881 93c6b2b394200374c5e5ddefdf4cd31b "pdflatex"
   "build/Trabajo-Final-Unidad-I.bbl" 1604109206 0 d41d8cd98f00b204e9800998ecf8427e "bibtex build/Trabajo-Final-Unidad-I"
@@ -95,4 +118,40 @@
   "build/Trabajo-Final-Unidad-I.aux"
   "build/Trabajo-Final-Unidad-I.log"
   "d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto/build/Trabajo-Final-Unidad-I.pdf"
+=======
+  "Trabajo-Final-Unidad-I.tex" 1604110832 12823 4ea8ad4d52c507fb9431b2a26c2a4bb3 ""
+  "build/Trabajo-Final-Unidad-I.aux" 1604110836 2884 e8aaf2377c0b957e4106cdad1ba0cebc "pdflatex"
+  "build/Trabajo-Final-Unidad-I.bbl" 1604110709 0 d41d8cd98f00b204e9800998ecf8427e "bibtex build/Trabajo-Final-Unidad-I"
+  "build/Trabajo-Final-Unidad-I.spl" 1604110834 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto-Temp/Trabajo-Final-Unidad-I.tex" 1604110832 12823 4ea8ad4d52c507fb9431b2a26c2a4bb3 ""
+  "d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto-Temp/build/Trabajo-Final-Unidad-I.aux" 1604110836 2884 e8aaf2377c0b957e4106cdad1ba0cebc ""
+  "imagen/1.png" 1604110052 92116 22752ce06c6e55dcd74af570a3e51db5 ""
+  "imagen/2.png" 1604110052 277194 118295853e03cfe2d83c82efd6826c18 ""
+  "imagen/20.png" 1604110052 101305 1ec1c01cc0ca736b091f1f73ad8b0414 ""
+  "imagen/21.png" 1604110052 69853 9ee51f7e805b5ec4102c91851530a9f3 ""
+  "imagen/22.png" 1604110052 27007 47a75cad37cd27ec82ce0b3581e1f178 ""
+  "imagen/23.png" 1604110052 7757 8421f74464ee96c2e53673c1b5b13c41 ""
+  "imagen/3.jpg" 1604110052 173250 49b1a5866f574a1ba7aedcd6f7be325d ""
+  "imagen/5.png" 1604110052 2813 3934c8c4b68ed9540581251c2378566d ""
+  "imagen/Screenshot_1.png" 1604110573 5636 1f89e7f13170c087c29a42502ca9508d ""
+  "imagen/Screenshot_2.png" 1604110573 8712 a0ede13e871b25a9bda4aa17099240e7 ""
+  "imagen/Screenshot_2020-10-30 Code.png" 1604110573 22609 bca1afc21d308de3e1e32f2192e9e0ba ""
+  "imagen/Screenshot_2020-10-30 Duplications Overview.png" 1604110573 23358 e32c028a44b3f3dcaccadba9ad1e4991 ""
+  "imagen/Screenshot_2020-10-30 Maintainability Overview.png" 1604110573 29147 51bddec4fd5de3eaf1f57ef5f0959eae ""
+  "imagen/Screenshot_2020-10-30 Project Overview.png" 1604110573 27467 b7e394ee87bcfe1a54f8ddbee26a5569 ""
+  "imagen/Screenshot_2020-10-30 Security Overview.png" 1604110573 30444 40011b5d77d9ced0c4dd2db851d8e8c7 ""
+  "imagen/casouso.png" 1604110052 55005 4236e631df6f2cb12e2b279b09387c05 ""
+  "imagen/code_1.png" 1604110573 268354 b4e78bc528cf126cd16c76cd478fef7a ""
+  "imagen/code_2.png" 1604110573 281189 9dc31eee19d06b12b728e0c3ce56fcaf ""
+  "imagen/code_3.png" 1604110573 205185 4045623aaae791409232ece10ae918fb ""
+  "imagen/diagrmclasesvistaprocesos.png" 1604110052 124177 b9c6702e1b9f90cb608d4e7ee7e621b1 ""
+  "imagen/f.png" 1604110052 67565 92c0a7cf87ca2f27f8cb62cd22e6e705 ""
+  "imagen/interface.png" 1604110052 558152 deb9b3a2dda5d8d6cc9b5606a6f32de7 ""
+  (generated)
+  "build/Trabajo-Final-Unidad-I.aux"
+  "build/Trabajo-Final-Unidad-I.spl"
+  "d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto-Temp/build/Trabajo-Final-Unidad-I.pdf"
+  "build/Trabajo-Final-Unidad-I.log"
+  "d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto-Temp/build/Trabajo-Final-Unidad-I.log"
+>>>>>>> master
   "build/Trabajo-Final-Unidad-I.pdf"
