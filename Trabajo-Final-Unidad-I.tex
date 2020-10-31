@@ -15,7 +15,7 @@
 
 		\title{\huge  PROYECTO DE  ANALISIS Y  MEJORAMIENTO DE  SOFTWARE }
 		\author{Katerin Merino Quispe              (2018060918)}
-		\author{Percy Taquila                ()}
+		\author{Percy Taquila Carazas             (2018061088)}
 		\author{Abraham Lipa Calabilla (2019064039)}
 		\author{Edwart                ()}
 		\author{Liz                ()}
@@ -35,12 +35,12 @@ Therefore, we will work with Sonarqube for the analysis of static code to analyz
 %%INICIO Introducción
 \section{Antecedentes o Introducción}
 
-El ''Sistema de Diagnostico Médico'' está desarrollado para que la atención a los pacientes sea mas rápida, ya que en esta pandemia hace que la atencion sea insufiente, falta de tiempo y con este sistema se busca atender mas rápido y de forma ordenada a los pacientes que vienen a sus consultas, con este sistema se diagnostica al paciente con los síntomas que nos diga en el momento de la consulta y dar como resultado su posible enfermedad que tiene y las recomendaciones que debe seguir para recuperarse.
+El Sistema de Diagnostico Médico está desarrollado para que la atención a los pacientes sea mas rápida, ya que en esta pandemia hace que la atencion sea insufiente, por falta de tiempo y con este sistema se busca una atencion mas rápido y de forma ordenada, a los pacientes que vienen para hacer sus consultas. Con este sistema se diagnostica al paciente con los síntomas que nos diga en el momento de la consulta y dar como resultado la posible enfermedad que padece.
 %%FIN Introducción
 
 %%INICIO Titulo
 \section{Titulo}
-''Sistema de Diagnostico Medico''
+"Sistema de Diagnostico Medico"
 
 Propuesta de un sistema de atención al paciente diagnosticando su posible enfermedad.
 %%FIN Titulo
@@ -49,23 +49,22 @@ Propuesta de un sistema de atención al paciente diagnosticando su posible enfer
 \begin{itemize}
     \item Katerin Merino Quispe
     \item Abraham Lipa Calabilla
+    \item Percy Taquila Carazas
     
 \end{itemize}
 %%FIN Autores
 %%INICIO Planteamiento del problema
 \section{Planteamiento del problema}
-no se si ira un texto aqui
-
 %%----------------------------------------------------------------------------------------------------------------------------------------------------------
 	\subsection{\textbf{Problema}}
- La falta e insuficiencia de herramientas para el apoyo en el diagnóstico de enfermedades, además por la pandemia que está pasando el mundo entero la demanda de pacientes no está siendo cubierta. Es por ello que muchos pacientes no son atendidos, es por eso que se necesita un sistema para poder agilizar la atención hacia los pacientes en su caso sea.
+Falta e insuficiencia de herramientas para el apoyo en el diagnóstico medico de enfermedades, además por la pandemia que está pasando el mundo entero la demanda de pacientes no está siendo cubierta. Es por ello que muchos pacientes no son atendidos y por esta razon se necesita un sistema que apoye en el diagnostico, para poder agilizar la atención hacia los pacientes.
 %%-----------------------------------------------------------------------------
 	\subsection{\textbf{Justificación }}
-Crear un sistema de diagnóstico para las enfermedades es necesario debido a que puede ayudar al especialista a brindar una respuesta más rápida, la implementación de este sistema va a mejorar la gestión de los servicios y la atención.
+Crear un sistema de diagnóstico para las enfermedades es necesario debido a que puede ayudar al medico a brindar una respuesta más rápida, la implementación de este sistema va a mejorar la gestión de los servicios y la atención.
 
 %%-----------------------------------------------------------------------------
 	\subsection{\textbf{ Alcance }}
-El software a desarrollar describimos cada funcionalidad del proyecto que está orientado a las consultas que se realizaran las personas con síntomas de alguna enfermedad.
+El software a desarrollar servira de apoyo para poder diagnosticar algunas enfermedades de acuerdo a los sintomas que el paciente presente.
 
 \section{Objetivos}
 		\subsection{\textbf{ General }}
@@ -80,22 +79,6 @@ El software a desarrollar describimos cada funcionalidad del proyecto que está 
 	\end{itemize}
 
 	\section{Referentes teóricos}
-\begin{itemize} 
- \item (EN ESTA PARTE HAY QUE VER QUE PONER, COLOCAN PORFAVOR, LO DE ABAJO ES UNA GUIA)
-
-    \item Hemos realizado una investigación en empresas relacionadas con el rubro de la ferretería, en este caso elegimos el caso de la empresa HELEO situada en el parque industrial de Tacna, donde pudimos observar como trabaja su sistema de COMPRA Y VENTA de productos.
-	\begin{center}
-	\includegraphics[width=12cm]{./imagen/1} 
-	\end{center}
-	\item Posee un anexo en la web de CATALOGO EN LINEA donde da una mayor promoción a sus productos antes de acudir a la tienda a comprarlos.
-	\begin{center}
-	\includegraphics[width=12cm]{./imagen/2} 
-	\end{center}
-	\item Asimismo pudimos ver un detalle interesante que era un modulo de CONSULTA DE FACTURAS ELECTRONICAS VIA INTERNET para los clientes
-	\begin{center}
-	\includegraphics[width=12cm]{./imagen/3} 
-	\end{center}
-\end{itemize}
 
 \section{Desarrollo de la propuesta}
 La calidad de código suele decirse que es un atributo interno de calidad, dado que no se hace visible al usuario. Pero llega un momento en el cual este atributo de calidad pasa de ser interno a externo, y esto se da cuando el hecho de tener modificar el código para hacer un cambio lleva mucho más tiempo del que debería. Con el fin de verificar la calidad interna de un sistema se suelen hacer análisis de código con SonarQube o herramientas similares. En este documento se muestra parte de de nuestro proyecto , donde básicamente  cuenta cómo hacer una prueba de concepto rápidamente usando una imagen Docker de SonarQube, y ejecutando el análisis desde SonarQube Scanner.
@@ -134,113 +117,7 @@ UML es un lenguaje para hacer modelos y es independiente de los métodos de aná
 	\includegraphics[width=12cm]{./imagen/20} 
 	\end{center}
 
-\section{Resultado Sonarqube}
-Definición de métricas
 
-\begin{itemize}
-
-		\item Descripción del proyecto
-	\begin{center}
-	\includegraphics[width=12cm]{./imagen/Screenshot_2020-10-30 Project Overview.png} 
-	\end{center}
-
-		\item Código duplicado
-	\begin{center}
-	\includegraphics[width=12cm]{./imagen/Screenshot_2020-10-30 Duplications Overview.png} 
-	\end{center}
-
-		\item Mantenibilidad
-	\begin{center}
-	\includegraphics[width=12cm]{./imagen/Screenshot_2020-10-30 Maintainability Overview.png} 
-	\end{center}
-	
-		\item Seguridad
-	\begin{center}
-	\includegraphics[width=12cm]{./imagen/Screenshot_2020-10-30 Security Overview.png} 
-	\end{center}
-	
-\end{itemize}
-
-\section{Desarrollo de Solución de Mejora}
-\subsection{\textbf{ Casos de Uso de la aplicación}}
-\begin{center}
-	\includegraphics[width=12cm]{./imagen/casouso} 
-	\end{center}
-\subsection{\textbf{ Diagrama de Arquitectura de la aplicación }}
-
-
-
-\begin{itemize}
-\item Existen diferentes tipos de arquitectura o patrones a seguir para desarrollar un software, en este caso voy a explicar en que consiste la aqruitectura de 4 Capas , que a mi parecer es la mas general o la mas basica para desarrollar.
-\item La Capa de Presentación : la que ve el usuario (también se la denomina «capa de usuario»), presenta el sistema al usuario, le comunica la información y captura la información del usuario en un mínimo de proceso (realiza un filtrado previo para comprobar que no hay errores de formato). También es conocida como interfaz gráfica y debe tener la característica de ser «amigable» (entendible y fácil de usar) para el usuario. Esta capa se comunica únicamente con la capa de negocio.
-\item La Capa de Negocios  : es donde residen los programas que se ejecutan, se reciben las peticiones del usuario y se envían las respuestas tras el proceso. Se denomina capa de negocio (e incluso de lógica del negocio) porque es aquí donde se establecen todas las reglas que deben cumplirse. Esta capa se comunica con la capa de presentación, para recibir las solicitudes y presentar los resultados, y con la capa de datos, para solicitar al gestor de base de datos almacenar o recuperar datos de él. También se consideran aquí los programas de aplicación.
-\item La Capa de Entidad: es donde residen los datos y es la encargada de acceder a los mismos. Está formada por uno o más gestores de bases de datos que realizan todo el almacenamiento de datos, reciben solicitudes de almacenamiento o recuperación de información desde la capa de negocio.
-\item La Capa de Acceso a Datos: se gestiona el acceso a los datos de la aplicación. Se emplean gestores de bases de datos que realizan la recuperación y el almacenamiento físico de los datos a partir de solicitudes de la capa de negocio.
-	
-	\end{itemize}
-	\begin{center}
-	\includegraphics[width=7cm]{./imagen/23} 
-	\end{center}
-
-
-Estructura de la solución en Visual Studio
-
-\begin{center}
-	\includegraphics[width=7cm]{./imagen/Screenshot_1.png}
-\end{center}
-
-\subsection{\textbf{ Diagrama de Clases de la aplicación }}
-\begin{center}
-	\includegraphics[width=12cm]{./imagen/diagrmclasesvistaprocesos} 
-	
-	\end{center}
-
-\subsection{\textbf{  Metodos de pruebas implementados para coberturar la aplicación }}
-\renewcommand{\labelenumi}{{\theenumi}}
-\begin{enumerate}
-
-\item  Pruebas Unitarias  
-
-\begin{center}
-	\includegraphics[width=12cm]{./imagen/code_1.png} 
-	\includegraphics[width=12cm]{./imagen/code_2.png} 
-	\includegraphics[width=12cm]{./imagen/code_3.png} 
-	\end{center}
-
-\item Ejecución de pruebas unitarias
-
-\begin{center}
-	\includegraphics[width=12cm]{./imagen/Screenshot_2.png}
-	\end{center}
-
-\item  Pruebas de Interfaz 
-
-\begin{center}
-	\includegraphics[width=12cm]{./imagen/interface} 
-\includegraphics[width=12cm]{./imagen/f} 
-	\end{center}
-
-\item Pruebas basadas en Desarrollo Guiado por el Comportamiento
-\end{enumerate}
-\section{Desplegar las pruebas automatizas  Azure Devops y Git gub actions }
-Para hacer la prueba se clonado desde el repositorio de GitHub el proyecto
-\begin{itemize} 
-    \item Para hacer la prueba se clonado desde el repositorio de GitHub el proyecto
-	\begin{center}
-	\includegraphics[width=12cm]{./imagen/20} 
-	\end{center}
-	\item se crea Pipelines
-	\begin{center}
-	\includegraphics[width=12cm]{./imagen/21} 
-	\end{center}
-	\item y posteriorme a la ejecusion
-	\begin{center}
-	\includegraphics[width=12cm]{./imagen/22} 
-	\end{center}
-\end{itemize}
-	\newpage
-	
-	\bibliography{BIBLIOGRAFIA}	
 
 \end{document}
 
