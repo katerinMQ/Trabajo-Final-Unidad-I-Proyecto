@@ -1,4 +1,3 @@
-
 \documentclass[preprint,12pt]{elsarticle}
 
 \usepackage[spanish]{babel}
@@ -16,7 +15,7 @@
 		\title{\huge  PROYECTO DE  ANALISIS Y  MEJORAMIENTO DE  SOFTWARE }
 		\author{Katerin Merino Quispe              (2018060918)}
 		\author{Percy Taquila                ()}
-		\author{Abraham                ()}
+		\author{Abraham Lipa Calabilla (2019064039)}
 		\author{Edwart                ()}
 		\author{Liz                ()}
 		\address{Tacna, Perú}
@@ -25,11 +24,11 @@
 
 %%INICIO abstract
 \begin{abstract}
-Con el presente documento se pretende presentar de forma concisa y clara las necesidades del cliente en el área a de ventas en términos de software que se realizará. 
+Con el presente documento se pretende presentar de forma concisa y clara las necesidades del cliente en el área de ventas en términos de software que se realizará. 
 En esta documentación se plasmará los requerimientos que servirán de guía para desarrollar el software en sus distintas etapas, ayudándonos a validar e inspeccionar la construcción de este, aplicando la calidad de Software.
 Por ello se trabajara con  Sonarqube para el análisis de código estático
 para analizar el código y encontrar errores de código, y vulnerabilidades de seguridad. 
-El análisis C char de SonarSource tiene una gran cobertura de estándares de calidad bien establecidos.  
+El análisis C-Sharp de SonarSource tiene una gran cobertura de estándares de calidad bien establecidos.  
 \end{abstract}
 %%FIN abstract
 
@@ -38,18 +37,20 @@ El análisis C char de SonarSource tiene una gran cobertura de estándares de ca
 %%INICIO Introducción
 \section{Antecedentes o Introducción}
 
-El "Sistema de Diagnostico Medico" esta desarrollado para que la atención a los pacientes sean mas rápidas, ya que en esta pandemia hace que la atencion sea insufiente, falta de tiempo y con este sistema se busca atender mas rápido y de forma ordenada a los pacientes que vienen a sus consultas, con este sistema se diagnostica al paciente con los síntomas que nos diga en el momento de la consulta y dar como resultado su posible enfermedad que tiene y las recomendaciones que debe seguir para recuperarse.
+El ''Sistema de Diagnostico Médico'' está desarrollado para que la atención a los pacientes sea mas rápida, ya que en esta pandemia hace que la atencion sea insufiente, falta de tiempo y con este sistema se busca atender mas rápido y de forma ordenada a los pacientes que vienen a sus consultas, con este sistema se diagnostica al paciente con los síntomas que nos diga en el momento de la consulta y dar como resultado su posible enfermedad que tiene y las recomendaciones que debe seguir para recuperarse.
 %%FIN Introducción
 
 %%INICIO Titulo
 \section{Titulo}
-"Sistema de Diagnostico Medico"
+''Sistema de Diagnostico Medico''
+
 Propuesta de un sistema de atención al paciente diagnosticando su posible enfermedad.
 %%FIN Titulo
 %%INICIO Autores
 \section{Autores}
 \begin{itemize}
     \item Katerin Merino Quispe
+    \item Abraham Lipa Calabilla
     
 \end{itemize}
 %%FIN Autores
@@ -112,15 +113,15 @@ SonarQube, como tantas otras herramientas similares, permite realizar análisis 
 	
 	Una muestra en Nuestro proyecto:
 		
-        \begin{center}
-	\includegraphics[width=12cm]{./imagen/7} 
+\begin{center}
+	\includegraphics[width=12cm]{./imagen/Screenshot_2020-10-30 Code.png} 
 	\end{center}
 \end{itemize}
 
 \subsection{\textbf{Tecnología de información  }}
 		\begin{itemize}
 	\item 	SQL SERVER: Microsoft SQL Server es un sistema de gestión de base de datos relacional, desarrollado por la empresa Microsoft. El lenguaje de desarrollo utilizado es Transact-SQL, una implementación del estándar ANSI del lenguaje SQL, utilizado para manipular y recuperar datos, crear tablas y definir relaciones entre ellas..
-	\item 	C char : lenguaje de programación multiparadigma desarrollado y estandarizado por Microsoft. Es un lenguaje de programación creado para diseñar aplicaciones en la plataforma.NET.
+	\item 	C-Sharp : lenguaje de programación multiparadigma desarrollado y estandarizado por Microsoft. Es un lenguaje de programación creado para diseñar aplicaciones en la plataforma.NET.
 	\item 	Visual Studio: es un entorno de desarrollo en diferentes sistemas operativos y compatibles con múltiples lenguajes de programación al igual que entornos de desarrollo web. 
 	\end{itemize}
 \subsection{\textbf{ Metodología, técnicas usadas  }}
@@ -136,21 +137,32 @@ UML es un lenguaje para hacer modelos y es independiente de los métodos de aná
 	\end{center}
 
 \section{Resultado Sonarqube}
-	Definición de métricas
-	\begin{itemize}
-	    \item Código duplicado
+Definición de métricas
+
+\begin{itemize}
+
+		\item Descripción del proyecto
 	\begin{center}
-	\includegraphics[width=12cm]{./imagen/8} 
+	\includegraphics[width=12cm]{./imagen/Screenshot_2020-10-30 Project Overview.png} 
 	\end{center}
-	\item Mantenibilidad
+
+		\item Código duplicado
 	\begin{center}
-	\includegraphics[width=12cm]{./imagen/9} 
+	\includegraphics[width=12cm]{./imagen/Screenshot_2020-10-30 Duplications Overview.png} 
 	\end{center}
-	\item Medida
-		\begin{center}
-	\includegraphics[width=12cm]{./imagen/10} 
+
+		\item Mantenibilidad
+	\begin{center}
+	\includegraphics[width=12cm]{./imagen/Screenshot_2020-10-30 Maintainability Overview.png} 
 	\end{center}
-	\end{itemize}
+	
+		\item Seguridad
+	\begin{center}
+	\includegraphics[width=12cm]{./imagen/Screenshot_2020-10-30 Security Overview.png} 
+	\end{center}
+	
+\end{itemize}
+
 \section{Desarrollo de Solución de Mejora}
 \subsection{\textbf{ Casos de Uso de la aplicación}}
 \begin{center}
@@ -158,22 +170,24 @@ UML es un lenguaje para hacer modelos y es independiente de los métodos de aná
 	\end{center}
 \subsection{\textbf{ Diagrama de Arquitectura de la aplicación }}
 
-
-
 \begin{itemize}
-\item Existen diferentes tipos de arquitectura o patrones a seguir para desarrollar un software, en este caso voy a explicar en que consiste la aqruitectura de 3 Capas , que ami parecer es la mas general o la mas basica para desarrollar.
-	\item La Capa de Presentación : Donde se encuentran los formularios y la parte visual de la aplicación.
-	\item 	La Capa de Negocios  : Donde se encuentra toda la logica del negocio y clases que las componete es decir, Entidades y controladoras)
 
-	\item 	La Capa de Acceso a Datos: Donde se encuentra las conexiones y las transacciones que se utilizan para comunicarse con la base de datos.
-	\end{itemize}
-	\begin{center}
-	\includegraphics[width=7cm]{./imagen/capas} 
-	\end{center}
-	\begin{center}
-	\includegraphics[width=12cm]{./imagen/vistalogica} 
-\includegraphics[width=7cm]{./imagen/3capas} 
-	\end{center}
+\item Existen diferentes tipos de arquitectura o patrones a seguir para desarrollar un software, en este caso voy a explicar en que consiste la aqruitectura de 3 Capas , que ami parecer es la mas general o la mas basica para desarrollar.
+\item La Capa de Presentación: Donde se encuentran los formularios y la parte visual de la aplicación.
+\item	La Capa de Negocios: Donde se encuentra toda la logica del negocio y clases que las componete es decir, Entidades y controladoras
+\item	La Capa de Acceso a Datos: Donde se encuentra las conexiones y las transacciones que se utilizan para comunicarse con la base de datos.
+\end{itemize}
+\begin{center}
+\includegraphics[width=7cm]{./imagen/capas} 
+\end{center}
+\includegraphics[width=12cm]{./imagen/vistalogica}
+
+Estructura de la solución en Visual Studio
+
+\begin{center}
+	\includegraphics[width=7cm]{./imagen/Screenshot_1.png} 
+\end{center}
+
 \subsection{\textbf{ Diagrama de Clases de la aplicación }}
 \begin{center}
 	\includegraphics[width=12cm]{./imagen/diagrmclasesvistaprocesos} 
@@ -181,20 +195,30 @@ UML es un lenguaje para hacer modelos y es independiente de los métodos de aná
 	\end{center}
 
 \subsection{\textbf{  Metodos de pruebas implementados para coberturar la aplicación }}
-\renewcommand{\labelenumi}{{\theenumi})}
+\renewcommand{\labelenumi}{{\theenumi}}
 \begin{enumerate}
-\item  Pruebas Unitarias  
+
+\item  Pruebas Unitarias
+
 \begin{center}
-	\includegraphics[width=12cm]{./imagen/calcular} 
+	\includegraphics[width=12cm]{./imagen/code_1.png} 
+	\includegraphics[width=12cm]{./imagen/code_2.png} 
+	\includegraphics[width=12cm]{./imagen/code_3.png} 
 	\end{center}
+
+\item Ejecución de pruebas unitarias
+
 \begin{center}
-	\includegraphics[width=12cm]{./imagen/pruebas} 
+	\includegraphics[width=12cm]{./imagen/Screenshot_2.png}
 	\end{center}
+
 \item  Pruebas de Interfaz 
+
 \begin{center}
 	\includegraphics[width=12cm]{./imagen/interface} 
-\includegraphics[width=12cm]{./imagen/f} 
+	\includegraphics[width=12cm]{./imagen/f} 
 	\end{center}
+	
 \item Pruebas basadas en Desarrollo Guiado por el Comportamiento
 \end{enumerate}
 \section{Desplegar las pruebas automatizas  Azure Devops y Git gub actions }
