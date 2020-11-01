@@ -1,104 +1,122 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.14)  31 OCT 2020 21:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.8)  31 OCT 2020 22:35
 entering extended mode
-**d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto/Trabajo-Final-Unidad-I.tex
-(d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto/Trabajo-Final-Unidad-I.tex
-LaTeX2e <2020-10-01> patch level 1
-L3 programming layer <2020-10-05> xparse <2020-03-03> (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/elsarticle\elsarticle.cls
+**./Trabajo-Final-Unidad-I.tex
+(Trabajo-Final-Unidad-I.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18>
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/elsarticle\elsarticle.c
+ls
 Document Class: elsarticle 2019/02/25, 3.2: Elsevier Ltd
-\@bls=\dimen138
-(C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+\@bls=\dimen134
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count175
-\c@section=\count176
-\c@subsection=\count177
-\c@subsubsection=\count178
-\c@paragraph=\count179
-\c@subparagraph=\count180
-\c@figure=\count181
-\c@table=\count182
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen139
-) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+\bibindent=\dimen135
+)
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
-) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+)
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+)
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
- (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen140
-\Gin@req@width=\dimen141
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
 )
-\c@tnote=\count183
-\c@fnote=\count184
-\c@cnote=\count185
-\c@ead=\count186
-\c@author=\count187
+\c@tnote=\count175
+\c@fnote=\count176
+\c@cnote=\count177
+\c@ead=\count178
+\c@author=\count179
 \@eadauthor=\toks16
-\c@affn=\count188
-\absbox=\box47
-\elsarticlehighlightsbox=\box48
-\elsarticlegrabsbox=\box49
-\keybox=\box50
-\Columnwidth=\dimen142
-\space@left=\dimen143
-\els@boxa=\box51
-\els@boxb=\box52
-\leftMargin=\dimen144
+\c@affn=\count180
+\absbox=\box45
+\elsarticlehighlightsbox=\box46
+\elsarticlegrabsbox=\box47
+\keybox=\box48
+\Columnwidth=\dimen138
+\space@left=\dimen139
+\els@boxa=\box49
+\els@boxb=\box50
+\leftMargin=\dimen140
 \@enLab=\toks17
 \@sep=\skip49
 \@@sep=\skip50
- (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\Trabajo-Final-Unidad-I.spl) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+ (Trabajo-Final-Unidad-I.spl)
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip51
 \bibsep=\skip52
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count189
+\c@NAT@ctr=\count181
 )
 \splwrite=\write3
 \openout3 = `Trabajo-Final-Unidad-I.spl'.
 
-\appnamewidth=\dimen145
-) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2020/10/06 3.50 The Babel package
- (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
-File: babel.def 2020/10/06 3.50 Babel common definitions
-\babel@savecnt=\count190
-\U@D=\dimen146
+\appnamewidth=\dimen141
+)
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/06/10 3.45 The Babel package
+
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count182
+\U@D=\dimen142
 \l@babelnohyphens=\language79
- (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count191
+\bbl@dirlevel=\count183
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
+df
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 \es@quottoks=\toks18
-\es@quotdepth=\count192
+\es@quotdepth=\count184
 Package babel Info: Making " an active character on input line 561.
 Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
-)) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+))
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks19
 \symAMSa=\mathgroup4
@@ -106,35 +124,39 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
+)) (C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
-\linenopenalty=\count193
+\linenopenalty=\count185
 \output=\toks20
-\linenoprevgraf=\count194
-\linenumbersep=\dimen147
-\linenumberwidth=\dimen148
-\c@linenumber=\count195
-\c@pagewiselinenumber=\count196
-\c@LN@truepage=\count197
-\c@internallinenumber=\count198
-\c@internallinenumbers=\count199
-\quotelinenumbersep=\dimen149
-\bframerule=\dimen150
-\bframesep=\dimen151
-\bframebox=\box53
+\linenoprevgraf=\count186
+\linenumbersep=\dimen143
+\linenumberwidth=\dimen144
+\c@linenumber=\count187
+\c@pagewiselinenumber=\count188
+\c@LN@truepage=\count189
+\c@internallinenumber=\count190
+\c@internallinenumbers=\count191
+\quotelinenumbersep=\dimen145
+\bframerule=\dimen146
+\bframesep=\dimen147
+\bframebox=\box51
 LaTeX Info: Redefining \\ on input line 3056.
-) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2020/08/01 v1.3d Input encoding file
+)
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks21
 \inpenc@posthook=\toks22
-) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+)
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count266
-\l__pdf_internal_box=\box54
-) (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\Trabajo-Final-Unidad-I.aux
+)
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+mode.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count192
+\l__pdf_internal_box=\box52
+) (Trabajo-Final-Unidad-I.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -154,31 +176,40 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
- (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count267
-\scratchdimen=\dimen152
-\scratchbox=\box55
-\nofMPsegments=\count268
-\nofMParguments=\count269
+\scratchcounter=\count193
+\scratchdimen=\dimen148
+\scratchbox=\box53
+\nofMPsegments=\count194
+\nofMParguments=\count195
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count270
-\MPscratchDim=\dimen153
-\MPnumerator=\count271
-\makeMPintoPDFobject=\count272
+\MPscratchCnt=\count196
+\MPscratchDim=\dimen149
+\MPnumerator=\count197
+\makeMPintoPDFobject=\count198
 \everyMPtoPDFconversion=\toks24
-) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+)
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
 )
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
- (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+
+
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
- (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+
+
+(C:\Users\Percy\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Overfull \hbox (2.61108pt too wide) has occurred while \output is active
@@ -188,148 +219,131 @@ Overfull \hbox (2.61108pt too wide) has occurred while \output is active
 [1
 
 
-{C:/Users/AbrahamLIPACALABILLA/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] [4] [5]
+{C:/Users/Percy/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3]
+[4] [5]
 <./imagen/Screenshot_2020-10-30 Code.png, id=23, 1333.98375pt x 467.7475pt>
 File: ./imagen/Screenshot_2020-10-30 Code.png Graphic file (type png)
 <use ./imagen/Screenshot_2020-10-30 Code.png>
-Package pdftex.def Info: ./imagen/Screenshot_2020-10-30 Code.png  used on input line 134.
+Package pdftex.def Info: ./imagen/Screenshot_2020-10-30 Code.png  used on input
+ line 134.
 (pdftex.def)             Requested size: 341.43306pt x 119.72011pt.
 <./imagen/foto1.png, id=25, 1020.06094pt x 460.72125pt>
 File: ./imagen/foto1.png Graphic file (type png)
 <use ./imagen/foto1.png>
-Package pdftex.def Info: ./imagen/foto1.png  used on input line 135.
+Package pdftex.def Info: ./imagen/foto1.png  used on input line 137.
 (pdftex.def)             Requested size: 341.43306pt x 154.21075pt.
 <./imagen/foto2.png, id=26, 1027.58907pt x 471.26062pt>
 File: ./imagen/foto2.png Graphic file (type png)
 <use ./imagen/foto2.png>
-Package pdftex.def Info: ./imagen/foto2.png  used on input line 136.
+Package pdftex.def Info: ./imagen/foto2.png  used on input line 140.
 (pdftex.def)             Requested size: 341.43306pt x 156.58073pt.
-<./imagen/Screenshot_2020-10-30 Project Overview.png, id=27, 981.6675pt x 596.2275pt>
-File: ./imagen/Screenshot_2020-10-30 Project Overview.png Graphic file (type png)
-<use ./imagen/Screenshot_2020-10-30 Project Overview.png>
-Package pdftex.def Info: ./imagen/Screenshot_2020-10-30 Project Overview.png  used on input line 148.
-(pdftex.def)             Requested size: 341.43306pt x 207.37268pt.
- [6 <./imagen/Screenshot_2020-10-30 Code.png> <./imagen/foto1.png> <./imagen/foto2.png>]
-<./imagen/Screenshot_2020-10-30 Duplications Overview.png, id=34, 982.67125pt x 523.9575pt>
-File: ./imagen/Screenshot_2020-10-30 Duplications Overview.png Graphic file (type png)
-<use ./imagen/Screenshot_2020-10-30 Duplications Overview.png>
-Package pdftex.def Info: ./imagen/Screenshot_2020-10-30 Duplications Overview.png  used on input line 153.
-(pdftex.def)             Requested size: 341.43306pt x 182.05272pt.
-<./imagen/Screenshot_2020-10-30 Maintainability Overview.png, id=35, 981.6675pt x 595.22375pt>
-File: ./imagen/Screenshot_2020-10-30 Maintainability Overview.png Graphic file (type png)
-<use ./imagen/Screenshot_2020-10-30 Maintainability Overview.png>
-Package pdftex.def Info: ./imagen/Screenshot_2020-10-30 Maintainability Overview.png  used on input line 158.
-(pdftex.def)             Requested size: 341.43306pt x 207.02357pt.
- [7 <./imagen/Screenshot_2020-10-30 Project Overview.png> <./imagen/Screenshot_2020-10-30 Duplications Overview.png>]
-<./imagen/Screenshot_2020-10-30 Security Overview.png, id=42, 981.6675pt x 595.22375pt>
-File: ./imagen/Screenshot_2020-10-30 Security Overview.png Graphic file (type png)
-<use ./imagen/Screenshot_2020-10-30 Security Overview.png>
-Package pdftex.def Info: ./imagen/Screenshot_2020-10-30 Security Overview.png  used on input line 163.
-(pdftex.def)             Requested size: 341.43306pt x 207.02357pt.
- [8 <./imagen/Screenshot_2020-10-30 Maintainability Overview.png> <./imagen/Screenshot_2020-10-30 Security Overview.png>]
-<./imagen/5.png, id=48, 447.92343pt x 180.675pt>
+<./imagen/foto3.png, id=27, 774.64406pt x 362.85562pt>
+File: ./imagen/foto3.png Graphic file (type png)
+<use ./imagen/foto3.png>
+Package pdftex.def Info: ./imagen/foto3.png  used on input line 143.
+(pdftex.def)             Requested size: 341.43306pt x 159.93379pt.
+ [6 <./imagen/Screenshot_2020-10-30 Code.png> <./imagen/foto1.png> <./imagen/fo
+to2.png>]
+<./imagen/foto4.png, id=34, 779.91376pt x 368.87813pt>
+File: ./imagen/foto4.png Graphic file (type png)
+<use ./imagen/foto4.png>
+Package pdftex.def Info: ./imagen/foto4.png  used on input line 146.
+(pdftex.def)             Requested size: 341.43306pt x 161.48509pt.
+<./imagen/foto5.png, id=35, 789.70032pt x 369.63094pt>
+File: ./imagen/foto5.png Graphic file (type png)
+<use ./imagen/foto5.png>
+Package pdftex.def Info: ./imagen/foto5.png  used on input line 149.
+(pdftex.def)             Requested size: 341.43306pt x 159.81241pt.
+<./imagen/foto6.png, id=36, 754.31813pt x 327.47343pt>
+File: ./imagen/foto6.png Graphic file (type png)
+<use ./imagen/foto6.png>
+Package pdftex.def Info: ./imagen/foto6.png  used on input line 152.
+(pdftex.def)             Requested size: 341.43306pt x 148.22614pt.
+ [7 <./imagen/foto3.png> <./imagen/foto4.png> <./imagen/foto5.png>]
+<./imagen/foto7.png, id=44, 780.66656pt x 351.56343pt>
+File: ./imagen/foto7.png Graphic file (type png)
+<use ./imagen/foto7.png>
+Package pdftex.def Info: ./imagen/foto7.png  used on input line 155.
+(pdftex.def)             Requested size: 341.43306pt x 153.76033pt.
+<./imagen/foto8.png, id=45, 782.925pt x 328.22626pt>
+File: ./imagen/foto8.png Graphic file (type png)
+<use ./imagen/foto8.png>
+Package pdftex.def Info: ./imagen/foto8.png  used on input line 158.
+(pdftex.def)             Requested size: 341.43306pt x 143.13786pt.
+ [8 <./imagen/foto6.png> <./imagen/foto7.png> <./imagen/foto8.png>]
+<./imagen/5.png, id=52, 447.92343pt x 180.675pt>
 File: ./imagen/5.png Graphic file (type png)
 <use ./imagen/5.png>
-Package pdftex.def Info: ./imagen/5.png  used on input line 178.
+Package pdftex.def Info: ./imagen/5.png  used on input line 173.
 (pdftex.def)             Requested size: 341.43306pt x 137.72519pt.
-<./imagen/Screenshot_3.png, id=49, 328.22626pt x 124.96687pt>
+<./imagen/Screenshot_3.png, id=53, 328.22626pt x 124.96687pt>
 File: ./imagen/Screenshot_3.png Graphic file (type png)
 <use ./imagen/Screenshot_3.png>
-Package pdftex.def Info: ./imagen/Screenshot_3.png  used on input line 185.
+Package pdftex.def Info: ./imagen/Screenshot_3.png  used on input line 180.
 (pdftex.def)             Requested size: 341.43306pt x 129.9968pt.
- [9 <./imagen/5.png>]
-<./imagen/Screenshot_4.png, id=54, 345.54094pt x 299.61937pt>
+
+[9 <./imagen/5.png>]
+<./imagen/Screenshot_4.png, id=58, 345.54094pt x 299.61937pt>
 File: ./imagen/Screenshot_4.png Graphic file (type png)
 <use ./imagen/Screenshot_4.png>
-Package pdftex.def Info: ./imagen/Screenshot_4.png  used on input line 190.
+Package pdftex.def Info: ./imagen/Screenshot_4.png  used on input line 185.
 (pdftex.def)             Requested size: 341.43306pt x 296.06175pt.
-<./imagen/Screenshot_7.png, id=55, 420.82219pt x 95.6072pt>
+<./imagen/Screenshot_7.png, id=59, 420.82219pt x 95.6072pt>
 File: ./imagen/Screenshot_7.png Graphic file (type png)
 <use ./imagen/Screenshot_7.png>
-Package pdftex.def Info: ./imagen/Screenshot_7.png  used on input line 194.
+Package pdftex.def Info: ./imagen/Screenshot_7.png  used on input line 189.
 (pdftex.def)             Requested size: 341.43306pt x 77.57123pt.
  [10 <./imagen/Screenshot_3.png> <./imagen/Screenshot_4.png>]
-<./imagen/Screenshot_6.png, id=61, 471.26062pt x 182.93344pt>
+<./imagen/Screenshot_6.png, id=65, 471.26062pt x 182.93344pt>
 File: ./imagen/Screenshot_6.png Graphic file (type png)
 <use ./imagen/Screenshot_6.png>
-Package pdftex.def Info: ./imagen/Screenshot_6.png  used on input line 198.
+Package pdftex.def Info: ./imagen/Screenshot_6.png  used on input line 193.
 (pdftex.def)             Requested size: 341.43306pt x 132.5382pt.
-<./imagen/Screenshot_5.png, id=62, 460.72125pt x 167.87718pt>
+<./imagen/Screenshot_5.png, id=66, 460.72125pt x 167.87718pt>
 File: ./imagen/Screenshot_5.png Graphic file (type png)
 <use ./imagen/Screenshot_5.png>
-Package pdftex.def Info: ./imagen/Screenshot_5.png  used on input line 202.
+Package pdftex.def Info: ./imagen/Screenshot_5.png  used on input line 197.
 (pdftex.def)             Requested size: 341.43306pt x 124.40904pt.
-<./imagen/Screenshot_8.png, id=63, 613.54219pt x 390.70969pt>
+<./imagen/Screenshot_8.png, id=67, 613.54219pt x 390.70969pt>
 File: ./imagen/Screenshot_8.png Graphic file (type png)
 <use ./imagen/Screenshot_8.png>
-Package pdftex.def Info: ./imagen/Screenshot_8.png  used on input line 207.
+Package pdftex.def Info: ./imagen/Screenshot_8.png  used on input line 202.
 (pdftex.def)             Requested size: 341.43306pt x 217.43068pt.
- [11 <./imagen/Screenshot_7.png> <./imagen/Screenshot_6.png> <./imagen/Screenshot_5.png>]
-<./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnosticoMedico Team Stories Board - Boards.png, id=70, 1330.9725pt x 737.75626pt>
-File: ./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnosticoMedico Team Stories Board - Boards.png Graphic file (type png)
-<use ./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnosticoMedico Team Stories Board - Boards.png>
-Package pdftex.def Info: ./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnosticoMedico Team Stories Board - Boards.png  used on input line 211.
+ [11 <./imagen/Screenshot_7.png> <./imagen/Screenshot_6.png> <./imagen/Screensh
+ot_5.png>]
+<./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnosticoMedico Team Stories B
+oard - Boards.png, id=74, 1330.9725pt x 737.75626pt>
+File: ./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnosticoMedico Team Stor
+ies Board - Boards.png Graphic file (type png)
+<use ./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnosticoMedico Team Stori
+es Board - Boards.png>
+Package pdftex.def Info: ./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnost
+icoMedico Team Stories Board - Boards.png  used on input line 208.
 (pdftex.def)             Requested size: 341.43306pt x 189.24545pt.
-<./imagen/casouso.png, id=71, 536.0025pt x 481.8pt>
-File: ./imagen/casouso.png Graphic file (type png)
-<use ./imagen/casouso.png>
-Package pdftex.def Info: ./imagen/casouso.png  used on input line 216.
-(pdftex.def)             Requested size: 341.43306pt x 306.90266pt.
- [12 <./imagen/Screenshot_8.png> <./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnosticoMedico Team Stories Board - Boards.png>]
-<./imagen/capas.jpg, id=77, 183.68625pt x 284.06125pt>
-File: ./imagen/capas.jpg Graphic file (type jpg)
-<use ./imagen/capas.jpg>
-Package pdftex.def Info: ./imagen/capas.jpg  used on input line 228.
-(pdftex.def)             Requested size: 199.16928pt x 308.02553pt.
- [13 <./imagen/casouso.png>]
-<./imagen/Screenshot_1.png, id=83, 236.38312pt x 91.84312pt>
-File: ./imagen/Screenshot_1.png Graphic file (type png)
-<use ./imagen/Screenshot_1.png>
-Package pdftex.def Info: ./imagen/Screenshot_1.png  used on input line 234.
-(pdftex.def)             Requested size: 199.16928pt x 77.38591pt.
-<./imagen/diagrmclasesvistaprocesos.png, id=84, 592.46344pt x 415.5525pt>
-File: ./imagen/diagrmclasesvistaprocesos.png Graphic file (type png)
-<use ./imagen/diagrmclasesvistaprocesos.png>
-Package pdftex.def Info: ./imagen/diagrmclasesvistaprocesos.png  used on input line 239.
-(pdftex.def)             Requested size: 341.43306pt x 239.48613pt.
- [14 <./imagen/capas.jpg> <./imagen/Screenshot_1.png>]
-<./imagen/code_1.png, id=89, 1750.54pt x 1264.725pt>
-File: ./imagen/code_1.png Graphic file (type png)
-<use ./imagen/code_1.png>
-Package pdftex.def Info: ./imagen/code_1.png  used on input line 250.
-(pdftex.def)             Requested size: 341.43306pt x 246.66862pt.
-<./imagen/code_2.png, id=90, 1766.6pt x 1132.23pt>
-File: ./imagen/code_2.png Graphic file (type png)
-<use ./imagen/code_2.png>
-Package pdftex.def Info: ./imagen/code_2.png  used on input line 251.
-(pdftex.def)             Requested size: 341.43306pt x 218.82309pt.
-<./imagen/code_3.png, id=91, 1638.12pt x 867.24pt>
-File: ./imagen/code_3.png Graphic file (type png)
-<use ./imagen/code_3.png>
-Package pdftex.def Info: ./imagen/code_3.png  used on input line 252.
-(pdftex.def)             Requested size: 341.43306pt x 180.74954pt.
- [15 <./imagen/diagrmclasesvistaprocesos.png>] [16 <./imagen/code_1.png> <./imagen/code_2.png>]
-<./imagen/Screenshot_2.png, id=101, 288.3272pt x 112.92188pt>
-File: ./imagen/Screenshot_2.png Graphic file (type png)
-<use ./imagen/Screenshot_2.png>
-Package pdftex.def Info: ./imagen/Screenshot_2.png  used on input line 258.
-(pdftex.def)             Requested size: 341.43306pt x 133.72565pt.
- [17 <./imagen/code_3.png> <./imagen/Screenshot_2.png>] (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\Trabajo-Final-Unidad-I.aux
+ [12 <./imagen/Screenshot_8.png> <./imagen/Screenshot_2020-10-31 ProyectoSistem
+aDiagnosticoMedico Team Stories Board - Boards.png>]
+(Trabajo-Final-Unidad-I.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 3929 strings out of 480236
- 58579 string characters out of 2873432
- 339551 words of memory out of 3000000
- 20433 multiletter control sequences out of 15000+200000
- 541690 words of font info for 53 fonts, out of 3000000 for 9000
+ 3799 strings out of 480790
+ 52985 string characters out of 2897301
+ 300542 words of memory out of 3000000
+ 19769 multiletter control sequences out of 15000+200000
+ 538940 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,5n,77p,813b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\Trabajo-Final-Unidad-I.pdf (17 pages, 968344 bytes).
+ 38i,5n,35p,724b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Percy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb><C:/Users/Percy/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmbxti10.pfb><C:/Users/Percy/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr12.pfb><C:/Users/Percy/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Percy/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Percy/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Trabajo-Final-Unidad-I.pdf (12 pages, 520490 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
+ 100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
