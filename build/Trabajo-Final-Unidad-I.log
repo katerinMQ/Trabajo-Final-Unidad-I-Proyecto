@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.14)  30 OCT 2020 20:56
 entering extended mode
 **d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto/Trabajo-Final-Unidad-I.tex
@@ -9,6 +10,12 @@ entering extended mode
 **d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto-Temp/Trabajo-Final-Unidad-I.tex
 (d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto-Temp/Trabajo-Final-Unidad-I.tex
 >>>>>>> master
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.14)  31 OCT 2020 01:23
+entering extended mode
+**d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto-Temp/Trabajo-Final-Unidad-I.tex
+(d:/Escritorio/upt/calidad_y_pruebas_de_software/1/trabajos/Trabajo-Final-Unidad-I-Proyecto-Temp/Trabajo-Final-Unidad-I.tex
+>>>>>>> d743cedf93a30a416beb131a3c4f21d867c185a8
 LaTeX2e <2020-10-01> patch level 1
 L3 programming layer <2020-10-05> xparse <2020-03-03> (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/elsarticle\elsarticle.cls
 Document Class: elsarticle 2019/02/25, 3.2: Elsevier Ltd
@@ -68,10 +75,14 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \@sep=\skip49
 \@@sep=\skip50
 <<<<<<< HEAD
+<<<<<<< HEAD
  (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.spl) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
 =======
  (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.spl) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
 >>>>>>> master
+=======
+ (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.spl) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+>>>>>>> d743cedf93a30a416beb131a3c4f21d867c185a8
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip51
 \bibsep=\skip52
@@ -146,10 +157,14 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count266
 \l__pdf_internal_box=\box54
 <<<<<<< HEAD
+<<<<<<< HEAD
 ) (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto\build\Trabajo-Final-Unidad-I.aux
 =======
 ) (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.aux
 >>>>>>> master
+=======
+) (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.aux
+>>>>>>> d743cedf93a30a416beb131a3c4f21d867c185a8
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -185,7 +200,10 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> d743cedf93a30a416beb131a3c4f21d867c185a8
  (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count267
@@ -202,6 +220,7 @@ LaTeX Font Info:    ... okay on input line 12.
 ) (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+<<<<<<< HEAD
 )
 <<<<<<< HEAD
 LaTeX Info: Redefining \. on input line 11.
@@ -209,17 +228,27 @@ LaTeX Info: Redefining \% on input line 11.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 36.
  (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+=======
+>>>>>>> d743cedf93a30a416beb131a3c4f21d867c185a8
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 36.
 =======
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
+<<<<<<< HEAD
 LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
  (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
 >>>>>>> master
+=======
+LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
+ (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
+>>>>>>> d743cedf93a30a416beb131a3c4f21d867c185a8
  (C:\Users\AbrahamLIPACALABILLA\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -230,6 +259,7 @@ Overfull \hbox (2.61108pt too wide) has occurred while \output is active
 [1
 
 
+<<<<<<< HEAD
 {C:/Users/AbrahamLIPACALABILLA/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
 <./imagen/1.png, id=14, 534.49687pt x 331.2375pt>
 File: ./imagen/1.png Graphic file (type png)
@@ -484,10 +514,63 @@ Package pdftex.def Info: ./imagen/22.png  used on input line 238.
 (pdftex.def)             Requested size: 341.43306pt x 100.7573pt.
  [16 <./imagen/21.png> <./imagen/22.png>] (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.bbl) (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.aux
 >>>>>>> master
+=======
+{C:/Users/AbrahamLIPACALABILLA/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] [4] [5]
+<./imagen/Screenshot_2020-10-30 Code.png, id=23, 1333.98375pt x 467.7475pt>
+File: ./imagen/Screenshot_2020-10-30 Code.png Graphic file (type png)
+<use ./imagen/Screenshot_2020-10-30 Code.png>
+Package pdftex.def Info: ./imagen/Screenshot_2020-10-30 Code.png  used on input line 134.
+(pdftex.def)             Requested size: 341.43306pt x 119.72011pt.
+<./imagen/5.png, id=25, 447.92343pt x 180.675pt>
+File: ./imagen/5.png Graphic file (type png)
+<use ./imagen/5.png>
+Package pdftex.def Info: ./imagen/5.png  used on input line 147.
+(pdftex.def)             Requested size: 341.43306pt x 137.72519pt.
+ [6 <./imagen/Screenshot_2020-10-30 Code.png>]
+<./imagen/Screenshot_3.png, id=30, 328.22626pt x 124.96687pt>
+File: ./imagen/Screenshot_3.png Graphic file (type png)
+<use ./imagen/Screenshot_3.png>
+Package pdftex.def Info: ./imagen/Screenshot_3.png  used on input line 154.
+(pdftex.def)             Requested size: 341.43306pt x 129.9968pt.
+<./imagen/Screenshot_4.png, id=31, 345.54094pt x 299.61937pt>
+File: ./imagen/Screenshot_4.png Graphic file (type png)
+<use ./imagen/Screenshot_4.png>
+Package pdftex.def Info: ./imagen/Screenshot_4.png  used on input line 159.
+(pdftex.def)             Requested size: 341.43306pt x 296.06175pt.
+ [7 <./imagen/5.png> <./imagen/Screenshot_3.png>]
+<./imagen/Screenshot_7.png, id=38, 420.82219pt x 95.6072pt>
+File: ./imagen/Screenshot_7.png Graphic file (type png)
+<use ./imagen/Screenshot_7.png>
+Package pdftex.def Info: ./imagen/Screenshot_7.png  used on input line 163.
+(pdftex.def)             Requested size: 341.43306pt x 77.57123pt.
+<./imagen/Screenshot_6.png, id=39, 471.26062pt x 182.93344pt>
+File: ./imagen/Screenshot_6.png Graphic file (type png)
+<use ./imagen/Screenshot_6.png>
+Package pdftex.def Info: ./imagen/Screenshot_6.png  used on input line 167.
+(pdftex.def)             Requested size: 341.43306pt x 132.5382pt.
+ [8 <./imagen/Screenshot_4.png> <./imagen/Screenshot_7.png>]
+<./imagen/Screenshot_5.png, id=45, 460.72125pt x 167.87718pt>
+File: ./imagen/Screenshot_5.png Graphic file (type png)
+<use ./imagen/Screenshot_5.png>
+Package pdftex.def Info: ./imagen/Screenshot_5.png  used on input line 171.
+(pdftex.def)             Requested size: 341.43306pt x 124.40904pt.
+<./imagen/Screenshot_8.png, id=46, 613.54219pt x 390.70969pt>
+File: ./imagen/Screenshot_8.png Graphic file (type png)
+<use ./imagen/Screenshot_8.png>
+Package pdftex.def Info: ./imagen/Screenshot_8.png  used on input line 176.
+(pdftex.def)             Requested size: 341.43306pt x 217.43068pt.
+<./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnosticoMedico Team Stories Board - Boards.png, id=47, 1330.9725pt x 737.75626pt>
+File: ./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnosticoMedico Team Stories Board - Boards.png Graphic file (type png)
+<use ./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnosticoMedico Team Stories Board - Boards.png>
+Package pdftex.def Info: ./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnosticoMedico Team Stories Board - Boards.png  used on input line 182.
+(pdftex.def)             Requested size: 341.43306pt x 189.24545pt.
+ [9 <./imagen/Screenshot_6.png> <./imagen/Screenshot_5.png> <./imagen/Screenshot_8.png>] [10 <./imagen/Screenshot_2020-10-31 ProyectoSistemaDiagnosticoMedico Team Stories Board - Boards.png>] (d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.aux
+>>>>>>> d743cedf93a30a416beb131a3c4f21d867c185a8
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
 <<<<<<< HEAD
  3946 strings out of 480236
  58396 string characters out of 2873432
@@ -517,4 +600,19 @@ PDF statistics:
  0 named destinations out of 1000 (max. 500000)
  111 words of extra memory for PDF output out of 10000 (max. 10000000)
 >>>>>>> master
+=======
+ 3841 strings out of 480236
+ 55926 string characters out of 2873432
+ 339631 words of memory out of 3000000
+ 20357 multiletter control sequences out of 15000+200000
+ 541690 words of font info for 53 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,5n,77p,818b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/AbrahamLIPACALABILLA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on d:/Escritorio\upt\calidad_y_pruebas_de_software\1\trabajos\Trabajo-Final-Unidad-I-Proyecto-Temp\build\Trabajo-Final-Unidad-I.pdf (10 pages, 215151 bytes).
+PDF statistics:
+ 78 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> d743cedf93a30a416beb131a3c4f21d867c185a8
 
